@@ -1,0 +1,124 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Tetrachloroethylene
+(PCE)",Oral TDI,"4.7E-03
+mg/kg -day
+BW","Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations: Two
+exposure groups. High exposure
+group (dry cleaners): exposure range =
+0.38-31.19 ppm (2.6 to 211 mg/m3);
+mean 8-hour time-weighted average
+exposure = 7.27 ppm (49 mg/m3).
+Moderate exposure group (ironers):
+exposure range = 0.52-11.28 ppm
+(3.5 to 77 mg/m3); mean of 8-hour
+time-weighted average exposure =
+4.8 ppm (33 mg/m3)
+Duration: 8.8 years (average)
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 to extrapolate
+from a less than lifetime exposure,
+and 10 for database deficiencies)","NOAEL = 4.8 ppm
+(33 mg/m3)
+BMD = 7.2 ppm
+10
+(49 mg/m3)","BMD power model
+BMDL = 6.6 ppm
+10
+(45 mg/m3)
+PBPK model used to
+extrapolate from inhalation
+exposures to equivalent
+oral doses
+Peak kidney PCE
+concentrations used
+to estimate brain
+concentrations
+External dose associated
+with BMDL =
+10
+4.7 mg/kg -day
+BW
+TDI = external dose
+associated with the
+BMDL /UF
+10","Neurotoxicity
+(colour confusion)","CEPA: Group III
+possibly
+carcinogenic
+to humans
+(EC and HC, 1993f)
+IARC: Group 2A
+probably
+carcinogenic
+to humans
+(IARC, 2014)
+US EPA IRIS:
+likely to be
+carcinogenic
+to humans
+(US EPA, 2012)","HC, 2015
+(based on
+Cavalleri et al.,
+1994)"
+"Tetrachloroethylene
+(PCE)",Inhalation TC,"4.0E-02
+mg/m3","Cavalleri et al., 1994","LOAEL (Cavalleri et al.,
+1994) = 42 mg/m3
+(time-weighted
+average mean
+concentration of both
+exposure groups)
+LOAEL (Echeverria et
+al., 1995) = 156 mg/m3","LOAELs adjusted for
+continuous exposure and
+breathing rate
+LOAEL (Cavalleri et al.,
+adj
+1994) = 15 mg/m3
+LOAEL (Echeverria et al.,
+adj
+1995) = 56 mg/m3
+TC = midpoint of the
+range of LOAELs/UF
+= 0.04 mg/m3","Neurotoxicity
+(alterations in
+reaction times,
+cognitive function,
+and colour vision)",,"HC, 2018a
+(based on US EPA,
+2012 [derived
+from
+Cavalleri et al.,
+1994, and
+Echeverria et al.,
+1995])"
+"Tetrachloroethylene
+(PCE)",,,"Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations: Two
+exposure groups. High exposure
+group (dry cleaners): exposure range =
+0.38-31.19 ppm (2.6 to 211 mg/m3);
+mean 8-hour time-weighted average
+exposure = 7.27 ppm (49 mg/m3).
+Moderate exposure group (ironers):
+range = 0.52-11.28 ppm (3.5 to
+77 mg/m3); mean of 8-hour time-
+weighted average exposure level =
+4.8 ppm (33 mg/m3).
+Duration: 8.8 years (average)
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+uncertainties in extrapolating from
+a LOAEL to a NOAEL, and 10 for
+database uncertainties)",,,,,

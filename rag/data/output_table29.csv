@@ -1,0 +1,98 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Carbon
+tetrachloride",Oral TDI,"7.1E-04
+mg/kg -day
+BW","Study Type: subchronic
+Species: male Sprague-Dawley rats
+Mode of Administration: gavage
+(corn oil)
+Exposure Regime: 0, 1, 10, or
+33 mg/kg -day, administered as
+BW
+a single oral bolus, 5 days/week
+Duration: 12 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 10 for major database
+deficiencies including lack of adequate
+chronic studies and evidence regarding
+carcinogenic mode of action in animals)","NOAEL =
+1 mg/kg -day
+BW","NOAEL adjusted
+for weekly continuous
+exposure
+NOAEL =
+adj
+0.71 mg/kg -day
+BW
+TDI = NOAEL /UF
+adj","Hepatotoxicity
+(increased serum
+sorbitol
+dehydrogenase
+levels and mild
+centrilobular
+vacuolization
+in the liver)","CEPA:
+not assessed
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+likely to be
+carcinogenic
+to humans
+(US EPA, 2010)","HC, 2010
+(based on
+Bruckner et al.,
+1986)"
+"Carbon
+tetrachloride",Inhalation UR,"6.0E-03
+(mg/m³)–¹
+[US EPA
+(2010): do
+not use with
+exposures
+>18 mg/m3]","Study Type: chronic
+Species: male BDF1 mice
+Mode of Administration: inhalation
+Dosing Regime: 0, 5, 25, or 125 ppm
+carbon tetrachloride vapour (0, 31, 157,
+or 786 mg/m3), 6 hours/day, 5 days/week
+Duration: 104 weeks
+Uncertainty Factors: N/A","LEC = 18 mg/m3
+10
+(lowest effective
+concentration)","Internal mouse doses
+determined using PBPK
+model
++
+BMD modelling using a
+log-probit model and an
+extra 10% cancer risk
++
+Linear extrapolation from
+the POD (LEC ) converted
+10
+to a human equivalent
+concentration using a
+human PBPK model
+Inhalation UR =
+0.1 / LEC
+10
+[UR rounded to
+6.0E-03 (mg/m3)-1]","Cancer
+(adrenal gland
+[pheochromo-
+cytomas])",,"HC, 2018a
+(based on US EPA,
+2010 [derived
+from Nagano
+et al., 2007 and
+JBRC, 1998])"

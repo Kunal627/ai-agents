@@ -1,0 +1,106 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Naphthalene,Oral TDI,"2.0E-02
+mg/kg -day
+BW","Study Type: subchronic
+Species: male and female F344 rats
+Mode of Administration: gavage
+(corn oil)
+Exposure Regime: 0, 25, 50, 100, 200,
+or 400 mg/kg , 5 days/week
+BW
+Duration: 13 weeks
+Uncertainty Factors: 3000 (10 for
+intraspecies variability, 10 for interspecies
+variability, 10 for use of a subchronic
+study, and 3 for database deficiencies)","NOAEL =
+100 mg/kg -day
+BW","NOAEL adjusted for
+continuous exposure
+NOAEL = 71 mg/kg -day
+adj BW
+TDI = NOAEL /UF
+adj
+(rounded to
+2.0E-02 mg/kg -day)
+BW","Decreased
+body weight","CEPA:
+not assessed
+IARC:
+Group 2B
+possibly
+carcinogenic to
+humans
+(IARC, 2002)
+US EPA IRIS:
+Group C
+possibly
+carcinogenic
+to humans
+(US EPA, 1998f)","US EPA, 1998f
+(based on
+BCL, 1980)"
+Naphthalene,Inhalation TC,"1.0E-02
+mg/m3","Study Type: chronic
+Species: F344 rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 10, 30, or 60 ppm
+(0, 52, 157, or 315 mg/m3) for 6 hours per
+day plus T (12 minutes for the time to
+90
+achieve 90% of the target concentration
+after vapour generation), 5 days per week
+Duration: 105 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 10 for database defciiencies)","LOAEL = 52 mg/m3
+(10 ppm)","LOAEL adjusted for
+continuous exposure
+LOAEL =
+adj
+9.3 mg/m3 (1.8 ppm)
+TC = LOAEL /UF
+adj","Respiratory tract
+toxicity
+(nasal lesions
+[neuroblastoma
+of the olfactory
+epithelium, and
+adenoma of the
+respiratory
+epithelium of
+the nose])",,"HC, 2013b
+(based on
+NTP, 2000)"
+Nickel chloride,Oral TDI,"1.3E-03
+mg/kg -day
+BW","Study Type: reproductive
+Species: female Long-Evans rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 10, 50, and
+250 ppm Ni2+ (equivalent to 0, 1.3, 6.7,
+and 31.6 mg Ni2+/kg -day, respectively)
+BW
+Duration: 11 weeks prior to mating (with
+unexposed males). Nickel administration
+continued through two successive
+gestation and lactation periods.
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 10 for use of a LOAEL
+instead of a NOAEL)","LOAEL =
+1.3 mg Ni2+/kg -day
+BW",TDI = LOAEL/UF,"Reproductive
+toxicity
+(perinatal death)","See nickel, mixture
+of oxidic, sulfidic
+and soluble
+inorganic nickel
+compounds","HC, 1996
+(based on
+Smith et al., 1993)"

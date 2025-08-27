@@ -1,0 +1,92 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Toluene,Inhalation TC,"2.3E+00
+mg/m3","Study Type: epidemiological
+(occupational)
+Species: humans (printing shop workers)
+Mode of Exposure: inhalation
+Exposure Concentrations: high
+exposure group (106 subjects) =
+26 ppm (98 mg/m3); low exposure group
+(86 subjects) = 3 ppm (11 mg/m3)
+Duration: long duration (21 years)
+and shorter duration (6 years)
+Uncertainty Factors: 10 (3.16 for
+pharmacokinetic variability and 3.16
+for pharmacodynamics variability)","NOAEL = 26 ppm
+(98 mg/m3)","NOAEL adjusted for
+continuous exposure
+(assuming 8 hours/day,
+5 days/week to 24 hours/
+day, 7 days/week)
+NOAEL = 23 mg/m3
+adj
+TC = NOAEL /UF
+adj","Neurotoxicity
+(cognitive function:
+attention, memory
+and psychomotor
+function)","CEPA: Group IV
+unlikely to be
+carcinogenic to
+humans
+(EC and HC, 1992b)
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+inadequate
+information to
+assess carcinogenic
+potential (US EPA,
+2005c)","HC, 2011b
+(based on
+Seeber et al.,
+2004, 2005)"
+"Trichloroethylene
+(TCE)",Oral TDI,"1.46E-03
+mg/kg -day
+BW","Study Type: subchronic (developmental)
+Species: Sprague-Dawley rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 1.5, and
+1100 ppm (equivalent to 0, 0.18, and
+132 mg/kg -day); 3 dosing regimes:
+BW
+1) 3 months before pregnancy,
+2) 2 months before and 21 days during
+pregnancy, or 3) 21 days during
+pregnancy only
+Duration: variable (see Exposure
+Regime above)
+Uncertainty Factors: 100 (10 for
+intraspecies variability and 10
+for interspecies variability)","BMDL =
+10
+0.146 mg/kg -day
+BW","BMD model
+TDI = BMDL /UF
+10","Developmental
+toxicity
+(fetal heart defects)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1993g)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2014)
+US EPA IRIS:
+carcinogenic
+to humans
+(US EPA, 2011b)","HC, 2005
+(based on
+Dawson et al.,
+1993)"

@@ -1,0 +1,161 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Dichlorobenzene,
+1,4-",Oral TDI,"1.1E-01
+mg/kg -day
+BW","Study Type: chronic
+Species: rats and mice
+Mode of Administration: gavage,
+corn oil
+Exposure Regime: male rats: 0, 150,
+or 300 mg/kg -day, 5 days/week; female
+BW
+rats and male and female mice: 0, 300,
+or 600 mg/kg -day, 5 days/week
+BW
+Duration: 103 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 10 for use of LOAEL vs
+NOAEL)","LOAEL =
+150 mg/kg -day
+BW","LOAEL adjusted for
+continuous exposure
+LOAEL =
+adj
+107 mg/kg -day
+BW
+TDI = LOAEL /UF
+adj","Nephrotoxicity
+(renal tubular
+degeneration
+and atrophy)","CEPA: Group III
+possibly
+carcinogenic
+to humans
+(EC and HC, 1993d)
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 1999b)
+US EPA IRIS:
+not assessed","HC, 1996
+(based on
+NTP, 1987)"
+"Dichlorobenzene,
+1,4-",Inhalation TC,"6.0E-02
+mg/m3","Study Type: chronic
+Species: male and female F344 rats
+and BDF mice
+1
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 1,4-dichlorobenzene
+vapour at concentrations of 0, 20, 75, or
+300 ppm (equivalent to 0, 120, 451,
+and 1804 mg/m3) for 6 hours/day,
+5 days/week
+Duration: 104 weeks
+Uncertainty Factors: 30 (3 for
+intraspecies variability and 10 for
+interspecies variability)","BMCL = 9.51 ppm
+10
+(57.2 mg/m3)","BMCL adjusted for
+10
+duration (1.70 ppm
+[10.2 mg/m3])
++
+Conversion to a BMCL
+10_HEC
+using a regional gas
+deposition ratio
+BMCL =
+10_HEC
+0.27 ppm (1.6 mg/m3)
+TC = BMCL /UF
+10_HEC","Respiratory
+tract toxicity
+(nasal lesions
+[eosinophilic
+changes in the
+nasal olfactory
+epithelium])",,"HC, 2018a
+(based on ATSDR,
+2006 [derived
+from Aiso et al.,
+2005 and JBRC,
+1995])"
+"Dichloroethane,
+1,2- (DCA, 1,2-)",Oral SF,"3.3E-03
+(mg/kg -day)–1
+BW","Study Type: chronic
+Species: male and female F344 rats
+and BDF1 mice
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: rats: 0, 10, 40, or
+160 ppm 1,2-dichloroethane vapour (0,
+202, 809 and 2024 mg/m3 or 0, 12, 50,
+200 mg/kg ), 6 hours/day, 5 days/week;
+BW
+mice: 0, 10, 30, or 90 ppm
+1,2-dichloroethane vapour (0, 40, 121,
+364 mg/m3 or 0, 54, 162, 486 mg/kg ),
+BW
+6 hours/day, 5 days/week
+Duration: 104 weeks
+Uncertainty Factors: N/A","BMD of the 1,2-DCA
+concentration rat
+blood based on an
+excess lifetime risk of
+10-5
+= 0.00027 mg/L","Rat PBPK model used to
+extrapolate between
+exposure routes (inhalation
+to oral) and to estimate the
+lifetime average daily
+concentration in rat blood
++
+Multistage modeling to
+determine rat BMD
+corresponding to an excess
+lifetime risk of 10-5
++
+PBPK model to extrapolate
+from internal animal dose to
+external dose in humans
+(0.003 mg/kg -day)
+BW
+Oral SF =
+10-5 / 0.003 mg/kg -day
+BW","Cancer
+(combined
+mammary gland
+tumours
+[adenoma,
+fibroadenoma, and
+adenocarcinoma of
+the mammary
+gland])","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1994d)
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+Group B2
+probably
+carcinogenic
+to humans
+(US EPA, 1987b)","HC, 2014a
+(based on
+Nagano et al.,
+2006)"

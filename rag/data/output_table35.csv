@@ -1,0 +1,103 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Dichloroethylene,
+1,1","Oral TDI
+(referred to as
+an ‘acceptable
+daily intake’
+in HC, 1994)","3.0E-03
+mg/kg -day
+BW","Study Type: chronic
+Species: Sprague-Dawley rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: time weighted
+average daily doses: 0, 7, 10, and
+20 mg/kg -day (males); 0, 9, 14, and
+BW
+30 mg/kg -day (females)
+BW
+Duration: 2 years
+Uncertainty Factors: 3000 (10 for
+intraspecies variability, 10 for interspecies
+variability, 10 for use of a LOAEL, and
+3 for limited evidence of carcinogenicity)","LOAEL =
+9 mg/kg -day
+BW",TDI = LOAEL/UF,"Hepatoxicity
+(hepatocellular
+swelling with
+mid-zonal fatty
+changes)","CEPA:
+not assessed
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+inhalation route:
+suggestive
+evidence of
+carcinogenicity,
+but not sufficient
+to assess human
+carcinogenic
+potential;
+oral route:
+inadequate data
+for assessment of
+human carcinogenic
+potential
+(US EPA, 2002)","HC, 1994
+(based on
+Quast et al.,
+1983)"
+"Dichloromethane
+(methylene
+chloride)",Oral TDI,"1.4E-02
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female F344 rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 5, 50, 125, and
+250 mg/kg -day; additional group
+BW
+at 250 mg/kg -day
+BW
+Duration: 104 weeks; additional group
+was exposed for 78 weeks + 26 week
+recovery period
+Uncertainty Factors: 300 (10 for
+intraspecies variability, 10 for
+interspecies variability, and 3 for
+database deficiencies)","BMDL =
+10
+4.2 mg/kg -day
+BW","TDI = BMDL /UF
+10","Hepatotoxicity
+(increased
+incidences of
+foci and areas of
+cellular alterations
+in liver)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1993e)
+IARC: Group 2A
+probably
+carcinogenic
+to humans
+(IARC, 2017)
+US EPA IRIS:
+carcinogenic
+by a mutagenic
+mode of action
+(US EPA, 2011a)","HC, 2011a
+(based on
+Serota et al.,
+1986a)"

@@ -1,0 +1,34 @@
+Substance,CAS No.,TEF1
+Polychlorinated Dibenzo-p-dioxins,,
+"2,3,7,8- Tetrachlorodibenzo-p-dioxin (TCDD)",1746-01-6,1
+"1,2,3,7,8- Pentachlorodibenzo-p-dioxin (PeCDD)",40321-76-4,1
+"1,2,3,4,7,8- Hexachlorodibenzo-p-dioxin (HxCDD)",39227-28-6,0.1
+"1,2,3,6,7,8- Hexachlorodibenzo-p-dioxin (HxCDD)",57653-85-7,0.1
+"1,2,3,7,8,9- Hexachlorodibenzo-p-dioxin (HxCDD)",19408-74-3,0.1
+"1,2,3,4,6,7,8- Heptachlorodibenzo-p-dioxin (HpCDD)",35822-46-9,0.01
+Octachlorodibenzo-p-dioxin (OCDD),3268-87-9,0.0003
+Polychlorinated Dibenzofurans,,
+"2,3,7,8- Tetrachlorodibenzofuran (TCDF)",51207-31-9,0.1
+"1,2,3,7,8- Pentachlorodibenzofuran (PeCDF)",57117-41-6,0.03
+"2,3,4,7,8- Pentachlorodibenzofuran (PeCDF)",57117-31-4,0.3
+"1,2,3,4,7,8- Hexachlorodibenzofuran (HxCDF)",70648-26-9,0.1
+"1,2,3,6,7,8- Hexachlorodibenzofuran (HxCDF)",57117-44-9,0.1
+"1,2,3,7,8,9- Hexachlorodibenzofuran (HxCDF)",72918-21-9,0.1
+"2,3,4,6,7,8- Hexachlorodibenzofuran (HxCDF)",60851-34-5,0.1
+"1,2,3,4,6,7,8- Heptachlorodibenzofuran (HpCDF)",67562-39-4,0.01
+"1,2,3,4,7,8,9- Heptachlorodibenzofuran (HpCDF)",55673-89-7,0.01
+Octachlorodibenzofuran (OCDF),39001-02-0,0.0003
+Non-ortho Substituted PCB Congeners,,
+PCB 77,32598-13-3,0.0001
+PCB 81,70362-50-4,0.0003
+PCB 126,57465-28-8,0.1
+PCB 169,32774-16-6,0.03
+Mono-ortho Substituted PCB Congeners,,
+PCB 105,32598-14-4,0.00003
+PCB 114,74472-37-0,0.00003
+PCB 118,31508-00-6,0.00003
+PCB 123,65510-44-3,0.00003
+PCB 156,38380-08-4,0.00003
+PCB 157,69782-90-7,0.00003
+PCB 167,52663-72-6,0.00003
+PCB 189,39635-31-9,0.00003

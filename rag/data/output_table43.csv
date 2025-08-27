@@ -1,0 +1,129 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Nickel oxide,Inhalation TC,"2.5E-05
+mg/m3","Study Type: subchronic
+Species: Wistar rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 0.025 and
+0.150 mg nickel/m3as NiO aerosols,
+24 hours/day, 7 days/week
+Duration: 4 months
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+interspecies variability, and 10 for
+less than chronic study)","LOAEL =
+0.025 mg/m3",TC = LOAEL/UF,"Respiratory
+tract toxicity
+(increase in the
+number of alveolar
+macrophages,
+increase in the size
+and number of
+macrophages with
+more than one
+nucleus, and an
+increase in
+phagocytic activity)","CEPA: Group I
+carcinogenic
+to humans
+(EC and HC, 1994e)
+IARC: see nickel,
+mixture of oxidic,
+sulfidic and soluble
+inorganic nickel
+compounds
+US EPA IRIS:
+not classified","HC, 1996
+(based on
+Spiegelberg et al.,
+1984)"
+"Nickel subsulfide
+(sulfidic nickel)",Inhalation TC,"1.8E-05
+mg/m3","Study Type: subchronic
+Species: F344/N rats and B6C3F1 mice
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 0.11, 0.22, 0.44,
+0.88, and 1.8 mg nickel/m³, 6 hours/day,
+5 days/week
+Duration: 13 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+interspecies variability, and 10 for
+less than chronic study)","LOAEL =
+0.1 mg/m3","LOAEL adjusted for
+continuous exposure
+LOAEL = 0.018 mg/m3
+adj
+TC = LOAEL /UF
+adj","Respiratory tract
+toxicity
+(increase in
+number of alveolar
+macrophages,
+hyperplasia
+of alveolar
+macrophages)","CEPA: Group I
+carcinogenic
+to humans
+(EC and HC,
+1994e)
+IARC: see nickel,
+mixture of oxidic,
+sulfidic and soluble
+inorganic nickel
+compounds
+US EPA IRIS:
+Group A
+carcinogenic
+to humans
+(US EPA, 1987c)","EC and HC, 1994e
+and HC, 1996
+(based on
+Benson et al.,
+1990;
+Dunnick et al.,
+1989)"
+Nickel sulfate,Oral TDI,"1.2E-02
+mg/kg -day
+BW","Study Type: epidemiological
+(human controlled studies)
+Species: humans (1st study [men] =
+8 non-allergic volunteers; 2nd study
+[women] = 20 nickel-sensitive subjects
+and 20 non-allergic age-matched
+controls, both groups having existing
+vesicular hand eczema of the
+pompholyx type)
+Mode of Exposure: oral (drinking water)
+Exposure Concentrations:
+12 µg nickel/kg in drinking water
+BW
+(exposed subjects in both studies),
+followed by a 72-hour observation period
+Duration: N/A (single administration)
+Uncertainty Factors: none (LOAEL
+was based on a highly sensitive human
+population [WHO, 2007])","LOAEL =
+12 µg Ni/kg -day
+BW",TDI = LOAEL,"Dermal toxicity
+(exacerbation
+of eczema in
+nickel-sensitive
+subjects)","CEPA and IARC:
+see nickel, mixture
+of oxidic, sulfidic
+and soluble
+inorganic nickel
+compounds
+US EPA IRIS:
+not assessed","CCME, 2015
+(based on WHO,
+2007 [derived
+from
+Nielsen et al.,
+1999])"

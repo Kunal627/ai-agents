@@ -1,0 +1,91 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Chlorobenzene,Oral TDI,"4.3E-01
+mg/kg -day
+BW","Study Type: chronic
+Species: F344/N rats and B6C3F1 mice
+Mode of Administration: gavage,
+corn oil
+Exposure Regime: 0, 60, or
+120 mg/kg -day (male and female
+BW
+rats, and female mice); 0, 30, or
+60 mg/kg -day (male mice), 5 days
+BW
+per week, as monochlorobenzene
+Duration: 103 weeks
+Uncertainty Factors: 100 (10 for
+intraspecies variability and 10 for
+interspecies variability)","NOAEL =
+60 mg/kg -day
+BW","NOAEL adjusted for
+continuous exposure
+NOAEL =
+adj
+43 mg/kg -day
+BW
+TDI = NOAEL /UF
+adj","Hepatotoxicity
+(neoplastic nodules
+in the liver)","CEPA: Group III
+possibly
+carcinogenic
+to humans
+(EC and HC, 1992a)
+IARC:
+not classified
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1990a)","HC, 1996
+(based on
+NTP, 1985a;
+Kluwe et al., 1985)"
+Chlorobenzene,"Inhalation TC
+(provisional)","1.0E-02
+mg/m³","Study Type: subchronic
+Species: Sprague-Dawley male rats,
+and male rabbits
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 75, or 250 ppm
+(0, 341, or 1138 mg/m3) chlorobenzene
+vapours, 7 hours/day, 5 days per week,
+for up to 120 exposure days
+Duration: 24 weeks
+Uncertainty Factors: 5000 (10 for
+intraspecies variability, 10 for interspecies
+variability, 10 for a less than chronic
+study, and 5 for use of a LOAEL
+rather than NOAEL)","LOAEL =
+341 mg/m³","LOAEL adjusted for
+continuous exposure and
+differences in volume
+inhaled and body weight
+between rats and the
+human child
+LOAEL =
+HEC
+50.2 mg/m³
+TC = LOAEL /UF
+HEC","Nephrotoxicity
+(increased
+kidney weight,
+kidney lesions)
+and
+Endocrine
+system toxicity
+(lesions in the
+adrenal cortex)
+and
+Changes in red
+cell parameters",,"HC, 1996
+and
+EC and HC, 1992a
+(based on Dilley,
+1977)"

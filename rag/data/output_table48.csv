@@ -1,0 +1,100 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Selenium,"UL (HC)
+__________
+0 to <6 mo
+6 mo to <5 yrs
+5 to <12 yrs
+12 to <20 yrs
+≥20 yrs","mg/kg -day
+BW
+__________
+5.5E-03
+6.0E-03
+6.3E-03
+6.2E-03
+5.7E-03","Yang and Zhou, 1994 (adults)","NOAEL =
+800 µg/day
+(mean selenium intake
+upon re-examination)
+(adults)","UL (IOM) =
+NOAEL/UF
+IOM adult ULs were
+adjusted to account for
+differences in HC’s adult
+age group (HC, 2010)","Hair and nail
+brittleness and
+loss (signs and
+symptoms of
+chronic selenosis)","CEPA:
+see 2017
+CMP assessment
+(ECCC and HC,
+2017)
+IARC: Group 3
+not classifiable as to
+human
+carcinogenicity
+(IARC, 1987)
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1991)","IOM, 2000
+(based on
+Yang and
+Zhou, 1994;
+Shearer and
+Hadjimarkos,
+1975)"
+Selenium,,,"Study Type: epidemiological
+Species: humans (adults)
+Mode of Exposure: dietary intake
+Exposure Concentrations: initial
+estimated range of intake: 913 to
+1907 µg/day; range of intake during
+re-examination (8 years later): 654 to
+952 µg/day
+Duration: chronic
+Uncertainty Factors: 2 (to protect
+sensitive individuals)",,,,,
+Selenium,,,"Shearer and Hadjimarkos, 1975
+(infants, children, and adolescents)","NOAEL = 60 µg/L
+(infants)","NOAEL adjusted for
+estimated average human
+milk intake of 0.78 L/day
+NOAEL = 47 µg/day
+adj
+(rounded to 45 µg/day)
+Infant UL (IOM) =
+NOAEL /UF
+adj
+IOM derived ULs for older
+infants, children, and
+adolescents based on
+the infant UL and relative
+body weight
+TRVs were calculated in
+mg/kg -day for age groups
+BW
+in HC (2010) guidance","No evidence of
+selenium toxicity",,
+Selenium,,,"Study Type: epidemiological
+Species: humans (infants, 0-6 months
+of age)
+Mode of Exposure: diet (human milk)
+Exposure Concentrations: selenium
+concentration of human milk of
+unsupplemented women ranged
+from 7 to 60 µg/L (average of 18 µg/L)
+Duration: N/A (stage of lactation
+ranged from 17 to 869 days)
+Uncertainty Factors: 1 (because
+of a lack of evidence that maternal
+intake associated with a human milk
+level of 60 µg selenium/L results
+in infant or maternal toxicity)",,,,,

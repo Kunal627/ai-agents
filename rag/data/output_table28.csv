@@ -1,0 +1,132 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Beryllium,Inhalation UR,"2.4E+00
+(mg/m3)–¹","Study Type: epidemiological
+(occupational)
+Species: humans (male)
+Mode of Exposure: inhalation
+Exposure Concentrations: range of
+median exposure levels inside plants
+(100-1000 μg/m3) estimated in NIOSH’s
+industrial hygiene reviews
+Duration: The cohort employed between
+1942 and 1967 was followed through
+1975. The subcohort upon which the
+inhalation UR is based was followed
+for at least 25 years.
+Uncertainty Factors: N/A","Range of upper
+bound unit risks:
+1.6E-04 (µg/m3)–1 to
+7.2E-03 (µg/m3)–1","Linear relative risk model
+Geometric mean of upper
+bound unit risks
+=
+2.4E-03 (μg/m3)–1","Cancer
+(lung)","CEPA: see 2019
+(draft) Chemicals
+Management Plan
+(CMP) assessment
+(ECCC and HC,
+2019a)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA IRIS:
+oral route –
+carcinogenic
+potential cannot
+be determined;
+inhalation route
+– known/likely
+human carcinogen
+(US EPA, 1998b)","US EPA, 1998b
+(based on
+Wagoner et al.,
+1980; NIOSH,
+1972)"
+Cadmium,"Oral TDI
+(provisional)","8.0E-04
+mg/kg -day
+BW","Study Type: epidemiological
+(meta-analysis)
+Species: humans
+Mode of Exposure: environmental
+(primarily through food)
+Exposure Concentrations: N/A
+Duration: chronic
+Uncertainty Factors: toxicodynamic
+and toxicokinetic variability incorporated
+(using Monte Carlo simulation) into the
+toxicokinetic model relating cadmium
+concentration in urine to dietary intake","NOAEL =
+5.24 µg Cd/g
+creatinine
+in urine
+(corresponds to a
+dietary cadmium
+exposure of
+1.2 µg Cd/kg -day
+BW
+[5th-95th percentiles:
+0.8-1.8 µg Cd/
+kg -day])
+BW","Lower bound of
+0.8 µg/kg -day retained
+BW
+as oral TDI to account for
+particularly susceptible
+individuals
+This oral TDI is reported by
+WHO (2011) as a provisional
+monthly tolerable intake
+of 25 µg/kg
+BW","Nephrotoxicity
+(renal tubular
+dysfunction)","CEPA: probably
+carcinogenic
+to humans
+(inhalation pathway)
+(EC and HC, 1994b)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA IRIS:
+Group B1
+probably
+carcinogenic
+to humans
+(US EPA, 1987a)","WHO, 2011"
+Cadmium,Inhalation UR,"4.2E+00
+(mg/m³)–¹","Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation of dusts
+of cadmium oxide and cadmium sulfide,
+and cadmium fumes
+Exposure Concentrations: Equivalent
+lifetime exposure in µg/m3 = 2, 11.8,
+and 41 µg Cd/m3 (based on 24 hour/day
+exposure and an estimated average
+lifetime of 61.5 years)
+Duration: at least two years
+Uncertainty Factors: N/A","Range of excess
+cancer risk for the
+exposed population:
+2.0E-03 (µg/m3)–1
+to 1.2E-02 (µg/m3)–1","Poisson regression model
+fitted to occupational
+mortality data
++
+Extrapolation to ambient
+levels in California","Cancer
+(lung)",,"OEHHA, 2011
+(based on
+Thun et al., 1985,
+1986; CDHS,
+1986; CDHS,
+1990)"

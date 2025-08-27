@@ -1,0 +1,111 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Chromium,
+trivalent",Oral TDI,"1.5E+00
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female BD rats
+Mode of Administration: diet
+Exposure Regime: chromic oxide (CrO)
+2 3
+in diet: 0% (control), 1%, 2%, or 5%,
+5 days/week, for a total of 600 feedings;
+average total amounts of ingested CrO
+2 3
+were 360, 720, and 1800 g/kg for
+BW
+each treatment group, respectively
+Duration: 840 days
+Uncertainty Factors: 1000 (10 for
+intraspecies variability and 10 for
+interspecies variability, and 10 for
+database deficiencies)","NOAEL = 5% CrO
+2 3
+in diet, corresponding
+to an average total
+dose of 1,800 g/kg
+BW
+(over 600 meals)","NOAEL was
+converted to a NOAEL
+for Cr(III) using a factor of
+0.6849 g Cr(III) / g CrO
+2 3
+and
+adjusted for
+continuous exposure
+NOAEL Cr (III) =
+adj
+1468 mg Cr(III)/kg -day
+BW
+TDI =
+NOAEL Cr(III) / (UF)
+adj","No effects
+observed at
+any dose level","CEPA: Group VI
+unclassifiable with
+respect to
+carcinogenicity
+to humans
+(EC and HC, 1994c)
+IARC: Group 3
+not classifiable
+with respect to
+carcinogenicity
+to humans
+(IARC, 1990)
+US EPA IRIS:
+Group D
+not classifiable
+with respect
+to human
+carcinogenicity
+(US EPA, 1998c)","US EPA, 1998c
+(based on
+Ivankovic and
+Preussmann,
+1975)"
+"Chromium,
+trivalent",Inhalation TC,"1.0E-04
+mg/m3
+intermediate
+duration
+minimal risk
+level for
+soluble Cr(III)
+particulates","Study Type: subchronic
+Species: male and female CDF rats
+Mode of Administration: inhalation
+(nose only)
+Exposure Regime: nose-only inhalation
+exposure to chromic oxide (CrO) or
+2 3
+basic chromium sulfate (CrHOS) dusts,
+5
+at measured concentrations of 0, 3, 10,
+or 30 mg chromium(III)/m3 for 6 hours/
+day, 5 days/week
+Duration: 13 weeks
+Uncertainty Factors: 300 (10 for use of
+a LOAEL, 10 for intraspecies variability,
+and 3 for interspecies variability)","LOAEL =
+3 mg Cr (III)/m3","LOAEL adjusted for
+intermittent exposure
+(0.54 mg Cr (III)/m3) and
+converted to a LOAEL
+HEC
+using a regional deposited
+dose ratio for the
+respiratory tract
+LOAEL =
+HEC
+0.04 mg/m3
+Inhalation TC =
+LOAEL Cr(III) / UF
+HEC","Respiratory
+tract toxicity",,"ATSDR, 2012
+(based on
+Derelanko et al.,
+1999)"

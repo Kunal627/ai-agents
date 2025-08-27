@@ -1,0 +1,134 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Benzene,Oral SF,"8.3E-02
+(mg/kg -day)–1
+BW","Study Type: chronic
+Species: rats and mice
+Mode of Administration: gavage,
+corn oil
+Exposure Regime: 0, 50, 100, and
+200 mg/kg -day (male rats); 0, 25,
+BW
+50, and 100 mg/kg -day (female rats,
+BW
+male and female mice), 5 days/week
+Duration: 103 weeks
+Uncertainty Factors: N/A","Range of unit risks
+associated with
+ingesting 1 µg/L of
+benzene in water:
+2.03E-06 to
+4.17E-06 (µg/L)-1","Linearized multistage model
+and allometric scaling
+TRV based on upper bound
+estimate of unit risks (URs)
+in drinking water:
+4.17E-06 (µg/L)-1
+Conversion to oral SF in
+(mg/kg -day)-1:
+BW
+Oral SF =
+UR × BW × CF / IR
+adult W
+[where BW = 70.7 kg,
+adult
+IR = 1.5 L/day, and
+W
+CF = 1000 µg/mg]","Cancer
+(malignant
+lymphomas)
+and
+Bone marrow
+hematopoietic
+hyperplasia","CEPA: Group I
+carcinogenic
+to humans
+(EC and HC, 1993b)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012b)
+US EPA IRIS:
+Group A
+carcinogenic
+to humans
+(US EPA, 2000a)","HC, 2009
+(based on
+NTP, 1986a)"
+Benzene,Inhalation UR,"1.6E-02
+(mg/m3)–¹","Study Type: epidemiological
+(occupational)
+Species: human
+Mode of Exposure: inhalation
+Exposure Concentrations: N/A
+Duration: chronic
+Uncertainty Factors: N/A","Unit lifetime leukemia
+risk to the general
+population, derived
+from these studies:
+Ohio Pliofilm cohort:
+0.044 (ppm)–1
+[0.014 (mg/m3)–1]
+Chinese cohorts:
+0.056 (ppm)–1
+[0.018 (mg/m3)–1]","Poisson regression and
+linear relative risk models
++
+Inhalation UR for lifetime
+inhalation exposures of
+the general population
+(based on the geometric
+mean of upper bound
+estimates of leukemia risk
+from these studies)
+Inhalation UR =
+[0.044 (ppm)-1 ×
+0.056 (ppm)-1] 1/2
+= 0.050 (ppm)–1
+[0.016 (mg/m3)–¹]","Cancer
+(leukemia)",,"HC, 2013a
+and
+OEHHA, 2001
+(based on
+Rinsky et al.,
+1987;
+Paxton et al.,
+1994;
+Hayes et al., 1997)"
+"Benzo[a]pyrene
+(BaP)",Oral TDI,"6.67E-05
+mg/kg -day
+BW","Study Type: developmental
+Species: neonate Sprague-Dawley
+rat pups (10 males and 10 females)
+Mode of Administration: gavage
+Exposure Regime: 0 (peanut oil only),
+0.02, 0.2, or 2 mg/kg administered
+BW
+daily from postnatal day (PND) 5 until
+PND 11
+Duration: until PND 71
+Uncertainty Factors: 300 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 3 for database defciiencies)","NOAEL =
+0.020 mg/kg -day
+BW",TDI = NOAEL/UF,"Neuro-
+developmental
+toxicity","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1994a)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012b)
+US EPA carcinogenic
+to humans
+(US EPA, 2017)","HC, 2016a
+(based on
+Chen et al.,
+2012)"

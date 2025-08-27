@@ -1,0 +1,134 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Benzo[a]pyrene
+(BaP)",Inhalation TC,"2.0E-06
+mg/m3","Study Type: developmental
+Species: F344 rats (pregnant females)
+Mode of Administration: inhalation
+(nose only)
+Exposure Regime: 0 (“sham” carbon
+black or unexposed), 25, 75, and
+100 µg/m3, 4 hours per day for 10 days
+(gestation days 11 to 20)
+Duration: 10 days (gestation days 11-20)
+Uncertainty Factors: 3000 (3 for
+toxicodynamic differences, 10 for
+intraspecies variability, 10 for LOAEL
+to NOAEL extrapolation, and 10
+for database deficiencies)","LOAEL =
+0.025 mg/m3","LOAEL adjusted for
+continuous daily exposure
+and converted to a human
+equivalent concentration
+based on a regional
+deposited dose ratio for
+extrarespiratory effects
+LOAEL =
+HEC
+0.0046 mg/m3
+RfC = LOAEL /UF
+HEC","Developmental
+toxicity
+(decreased
+embryo/foetal
+survival)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1994a)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012b)
+US EPA
+carcinogenic
+to humans
+(US EPA, 2017)","US EPA, 2017
+(based on
+Archibong et al.,
+2002)"
+"Benzo[a]pyrene
+(BaP)",Oral SF,"1.289E+00
+(mg/kg -day) –1
+BW","Study Type: chronic
+Species: B6C3F1 female mice
+Mode of Administration: diet
+Exposure Regime: 0, 5, 25, and 100 ppm
+(corresponding to approximately 0, 0.7,
+3.3, and 13.0 mg/kg -day, as per HC,
+BW
+2016a)
+Duration: 2 years
+Uncertainty Factors: N/A","BMDL =
+10
+0.5389 mg/kg -day
+BW","Allometric scaling of
+the BMDL (to account
+10
+for interspecies variability
+and derive a human
+equivalent value)
+BMDL =
+10, HEC
+0.07758 mg/kg -day
+BW
+Oral SF =
+0.1/BMDL
+10, HEC
+where 0.1 = 10% extra
+cancer risk","Digestive
+tract toxicity
+(tumours of the
+forestomach)",,"HC, 2016a
+(based on
+Culp et al., 1998
+and Moffat et al.,
+2015)"
+"Benzo[a]pyrene
+(BaP)",Inhalation UR,"6.0E-01
+(mg/m3)–1","Study Type: chronic
+Species: Syrian golden male hamsters
+Mode of Administration: inhalation
+(nose only) of benzo[a]pyrene condensed
+onto sodium chloride aerosols
+Exposure Regime: 2.2, 9.5, and
+46.5 mg BaP/m3 (time-weighted average
+concentrations of 0, 0.25, 1.01, and
+4.29 mg/m3, corresponding to 0, 2,
+10, and 50 mg/m3 nominal study
+concentrations), 4.5 hours/day for
+the first 10 weeks, then 3 hours/day
+for the remainder of the study
+Duration: minimum of 10 weeks up
+to 130 weeks
+Uncertainty Factors: N/A","BMCL =
+10
+0.16 mg/m3","Multistage Weibull
+time-to-tumour
+dose-response model
++
+Linear extrapolation from
+the POD associated with
+10% extra cancer risk
+Inhalation UR =
+0.1/BMCL
+10
+where 0.1 is 10% extra
+cancer risk","Cancer
+(tumours of
+the upper
+gastrointestinal
+tract and upper
+respiratory tract
+[squamous cell
+neoplasia in the
+larynx, pharynx,
+trachea, nasal
+cavity, esophagus,
+and forestomach])",,"US EPA, 2017
+(based on
+Thyssen et al.,
+1981)"

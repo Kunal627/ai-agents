@@ -1,0 +1,93 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Polychlorinated
+biphenyls (PCBs)
+(non dioxin-like
+i.e., non-coplanar)","Oral TDI
+(provisional)","1.0E-05
+mg/kg -day
+BW
+(based on an
+Aroclor
+1254
+mixture)","Study Type: chronic
+Species: female rhesus monkeys
+Mode of Administration: oral
+(ingestion of capsules containing
+Aroclor in a 1:1 glycerol/corn
+1254
+oil mixture)
+Exposure Regime: 0, 0.005, 0.02, 0.04,
+or 0.08 mg/kg -day
+BW
+Duration: 23 months and 55 months
+(same group)
+Uncertainty Factors: 300 (10 for
+intraspecies variability, 3 for interspecies
+variability, and 10 to extrapolate from
+a LOAEL to a NOAEL)","LOAEL for Aroclor =
+1254
+0.005 mg/kg -day
+BW","As per Baars et al., 2001,
+TDI for
+mixture of non dioxin-like
+(i.e., non-coplanar PCBs)
+=
+50% of the TDI of Aroclor
+1254
+(based on chemical analysis
+of seven ”indicator PCBs”
+[PCB # 28, 52, 101, 118,
+138, 153, and 180])
+LOAEL Aroclor /UF
+1254
+= 1.7E-05 mg/kg -day
+BW
+(rounded to
+2.0E-05 mg/kg -day)
+BW
+TDI Aroclor =
+1254
+2.0E-05 mg/kg -day ×
+BW
+50% =
+1.0E-05 mg/kg -day
+BW","Immunotoxicity
+(decreased
+antibody response)","CEPA:
+not classified
+IARC:
+not classified
+US EPA IRIS:
+not classified","WHO, 2003
+(based on
+Tryphonas et al.,
+1989, 1991),
+and
+Baars et al., 2001"
+"Polychlorinated
+biphenyls (PCBs)2
+(dioxin-like,
+i.e. coplanar)",Oral TDI,"2.3E-09 TEQ
+mg/kg -day
+BW","See PCDDs/PCDFs for study details.
+Dioxin-like (i.e., coplanar) PCBs should be evaluated with PCDDs/PCDFs, using appropriate TEFs (see Table 4).",,,,"CEPA:
+not classified
+IARC: Group 1;
+dioxin-like
+(i.e., coplanar)
+PCBs classified
+as carcinogenic
+to humans
+(IARC, 2016)
+US EPA IRIS:
+Group B2
+probably
+carcinogenic
+to humans
+(US EPA, 1996)","See PCDDs/
+PCDFs for source
+information."

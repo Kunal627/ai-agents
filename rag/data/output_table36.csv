@@ -1,0 +1,160 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Dichloromethane
+(methylene
+chloride)",Inhalation TC,6.0E-01 mg/m3,"Study Type: chronic
+Species: Sprague-Dawley rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 50, 200, or
+500 ppm (equivalent to 0, 174, 695,
+or 1737 mg/m3) dichloromethane
+(> 99.5% pure) for 6 hours/day,
+5 days/week
+Duration: 2 years
+Uncertainty Factors: 30 (3.16 for
+intraspecies variability, 3.16 for
+interspecies variability, and 3 for
+database deficiencies)","1st percentile HEC =
+17.2 mg/m3","Rat PBPK model to estimate
+rat internal dose (BMDL )
+10
++
+Adjustment to a human
+equivalent internal BMDL
+10
++
+Conversion to an HEC using
+a human PBPK model
+TC = 1st percentile HEC/UF","Hepatoxicity
+(hepatic
+vacuolation)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1993e)
+IARC: Group 2A
+probably
+carcinogenic
+to humans
+(IARC, 2017)
+US EPA IRIS:
+carcinogenic
+by a mutagenic
+mode of action
+(US EPA, 2011a)","HC, 2018a
+(based on US EPA,
+2011a
+[derived from
+Nitschke et al.,
+1988])"
+"Dichloromethane
+(methylene
+chloride)","Oral SF
+[US EPA (2011a):
+do not use
+with exposures
+>60 mg/
+kg -day;
+BW
+apply ADAFs
+to the oral SF
+for early life
+exposures]","2.0E-03
+(mg/
+kg -day)–1
+BW","Study Type: chronic
+Species: male and female B6C3F1 mice
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 60, 125, 185,
+or 250 mg/kg -day (in deionized
+BW
+drinking water)
+Duration: 104 weeks
+Uncertainty Factors: N/A","BMDL =
+10
+60 mg/kg -day
+BW","BMDL estimated using a
+10
+linearized multistage model
+Oral SF calculated from
+adult exposure data and
+does not reflect presumed
+early-life susceptibility","Cancer
+(liver
+[hepatocellular
+carcinomas or
+adenomas])",,"US EPA, 2011a
+(based on
+Serota et al.,
+1986b, and
+Hazleton
+Laboratories,
+1983)"
+"Dichloromethane
+(methylene
+chloride)","Inhalation UR
+[US EPA (2011a):
+do not use
+with exposures
+exceeding
+>7700 mg/m3
+;
+apply ADAFs
+for early life
+exposures]","1.0E-05
+(mg/m3)–¹","Study Type: chronic
+Species: male B6C3F mice
+1
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 2000 or 4000 ppm
+(approximately 0, 7000, 14 000 mg/m3);
+6 hours/day, 5 days/week
+Duration: 2 years
+Uncertainty Factors: N/A","BMDL (mouse liver
+10
+tumours) =
+544.4 mg/m3
+BMDL (mouse lung
+10
+tumours) =
+48.6 mg/m3","PBPK model to estimate
+internal mouse dose
++
+Multistage dose-response
+model to determine mouse
+BMDL values for liver
+10
+tumours and lung tumours
++
+Allometric scaling to
+convert mouse BMDL
+10
+values to human equivalent
+BMDL values
+10
++
+Probabilistic human PBPK
+model to determine
+distribution of internal
+human doses +
+corresponding inhalation
+URs expressed as external
+concentrations
+Inhalation UR based on
+combined risk for liver and
+lung tumours","Cancer
+(liver and lung)
+[hepatocellular and
+bronchoalveolar
+carcinomas or
+adenomas])",,"US EPA, 2011a
+(based on
+NTP, 1986b,
+Mennear et al.,
+1988)"

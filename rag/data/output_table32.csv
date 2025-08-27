@@ -1,0 +1,129 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Chromium,
+hexavalent",Oral TDI,"2.2E-03
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female B6C3F1 mice
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: Male mice received 0,
+14.3, 28.6, 85.7, or 257.4 mg sodium
+dichromate dehydrate (SSD)/L (equivalent
+to 0, 5, 10, 30, and 90 mg Cr (VI)/L or 0,
+0.4, 0.9, 2.4 and 5.9 mg Cr (VI)/kg -day
+BW
+respectively). Female mice received 0,
+14.3, 57.3, 172, or 516 mg sodium
+dichromate dihydrate/L (equivalent to 0,
+5, 20, 60, and 180 mg Cr (VI)/L or 0, 0.4,
+1.4, 3.1, and 8.7 mg Cr (VI)/kg -day).
+BW
+Duration: 2 years
+Uncertainty Factors: 25 (10 for
+intraspecies variability and 2.5 for
+pharmacodynamic interspecies
+differences)","BMDL =
+01
+0.67 mg Cr(VI)/
+kg -day
+BW","PBPK model used to
+convert mouse BMDL into
+01
+a human equivalent dose of
+0.054 mg Cr (VI)/ kg -day
+BW
+TDI =
+human equivalent dose/UF","Gastrointestinal
+toxicity
+(diffuse epithelial
+hyperplasia of the
+small intestine)","CEPA: Group I
+carcinogenic
+to humans
+(EC and HC, 1994c)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA IRIS:
+Group A
+inhalation route:
+carcinogenic
+to humans
+(US EPA, 1998d);
+Group D
+oral route:
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1998d)","HC, 2016b
+(based on
+NTP, 2008
+Stout et al., 2009;
+Thompson et al.,
+2014; Summit
+Toxicology, 2014)"
+"Chromium,
+hexavalent",Inhalation TC,"1.0E-04
+mg/m3","Study Type: subchronic
+Species: male Wistar rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: sodium
+dichromate (chromium particulates),
+0.05-0.4 mg Cr (VI)/m3 for 22 hours/day,
+7 days/week
+Duration: 30 to 90 days
+Uncertainty Factors: 300 (10 for use
+of a subchronic study, 10 for intraspecies
+variability, and 3 for pharmacodynamic
+interspecies differences)","BMC =
+10
+0.034 mg Cr (VI)/m3","BMC selected as POD
+10
+and adjusted for
+continuous exposure
++
+Animal to human
+conversion based on
+regional deposited dose
+ratio for particulates
+TC for Cr (VI) =
+BMC /UF
+10","Respiratory
+tract toxicity
+(increased albumin
+and lactate
+dehydrogenase in
+bronchioalveolar
+lavage fluid,
+reflecting initial
+injury and chronic
+inflammation)",,"US EPA, 1998d
+(based on
+Glaser et al., 1990
+and Malsch et al.,
+1994)"
+"Chromium,
+hexavalent",Inhalation UR,"7.6E+01
+(mg/m3)–1","Study Type: epidemiological
+(occupational)
+Species: humans (adult men)
+Mode of Exposure: inhalation
+Exposure Concentrations: N/A
+Duration: at least 1 year, up to 8 years
+Uncertainty Factors: N/A","TC (5% tumourigenic
+05
+concentration) =
+0.66 µg/m3","Inhalation UR =
+0.05/TC
+05
+where 0.05 = 5% extra
+cancer risk","Cancer
+(lung)",,"HC, 1996
+(based on
+Mancuso, 1975)"

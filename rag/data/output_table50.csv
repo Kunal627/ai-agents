@@ -1,0 +1,120 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Tetrachloroethylene
+(PCE)",Inhalation TC,"4.0E-02
+mg/m3","Echeverria et al., 1995","LOAEL (Cavalleri et al.,
+1994) = 42 mg/m3
+(time-weighted
+average mean
+concentration of both
+exposure groups)
+LOAEL (Echeverria et
+al., 1995) = 156 mg/m3","LOAELs adjusted for
+continuous exposure and
+breathing rate
+LOAEL (Cavalleri et al.,
+adj
+1994) = 15 mg/m3
+LOAEL (Echeverria et al.,
+adj
+1995) = 56 mg/m3
+TC = midpoint of the
+range of LOAELs/UF
+= 0.04 mg/m3","Neurotoxicity
+(alterations in
+reaction times,
+cognitive function,
+and colour vision)","CEPA: Group III
+possibly
+carcinogenic
+to humans
+(EC and HC, 1993f)
+IARC: Group 2A
+probably
+carcinogenic
+to humans
+(IARC, 2014)
+US EPA IRIS:
+likely to be
+carcinogenic
+to humans
+(US EPA, 2012)","HC, 2018a
+(based on US EPA,
+2012 [derived
+from
+Cavalleri et al.,
+1994, and
+Echeverria et al.,
+1995])"
+"Tetrachloroethylene
+(PCE)",,,"Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations:
+Three exposure zones identified for
+counter clerks, pressers, and operators,
+corresponding to air levels of 11.2, 23.2,
+and 40.8 ppm respectively (76, 156,
+and 277 mg/m3)
+Duration: chronic
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+uncertainties in extrapolating from
+a LOAEL to a NOAEL, and 10 for
+database uncertainties)",,,,,
+Toluene,Oral TDI,"9.7E-03
+mg/kg -day
+BW","Study Type: epidemiological
+(occupational)
+Species: humans (printing shop workers)
+Mode of Exposure: inhalation
+Exposure Concentrations: high
+exposure group (106 subjects) =
+26 ppm (98 mg/m3); low exposure group
+(86 subjects) = 3 ppm (11 mg/m3)
+Duration: long duration (21 years)
+and shorter duration (6 years)
+Uncertainty Factors: 10 for intraspecies
+variability","NOAEL = 26 ppm
+(98 mg/m3)","PBPK modeling to estimate
+an internal toluene blood
+concentration following
+inhalation exposure =
+0.0075 mg/L
++
+Conversion to external oral
+human dose assuming
+ingestion of 1.5 L drinking
+water/day:
+NOAEL =
+HEC
+0.097 mg/kg -day
+BW
+TDI = NOAEL /UF
+HEC","Neurotoxicity
+(cognitive function:
+attention, memory,
+and psychomotor
+function)","CEPA: Group IV
+unlikely to be
+carcinogenic to
+humans
+(EC and HC, 1992b)
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+inadequate
+information to
+assess carcinogenic
+potential (US EPA,
+2005c)","HC, 2014b
+(based on
+Seeber et al.,
+2004, 2005)"

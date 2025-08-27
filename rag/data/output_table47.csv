@@ -1,0 +1,152 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Polychlorinated
+dibenzo-p-dioxins/
+polychlorinated
+dibenzofurans 2
+(PCDDs/PCDFs)","Oral TDI
+(provisional)","2.3E-09 TEQ
+mg/kg -day
+BW","Faqi et al., 1998","LOAEL (maternal
+body burden) =
+25 ng/kg -day
+BW","BMD modeling to
+extrapolate NOAEL and
+LOAEL based on maternal
+body burden, to estimate
+equivalent monthly human
+intakes (EHMIs)
+pTMI = EHMI/UF
+Range of pTMIs =
+40-100 pg/kg -month
+BW
+mid-point of pTMI range =
+70 pg/kg -month
+BW
+pTDI = pTMI/30 days
+per month","Developmental
+toxicity
+(decreased sperm
+production and
+altered sexual
+behaviour in
+male offspring)","CEPA:
+not assessed
+IARC:
+Group 3
+not classifiable as to
+carcinogenicity to
+humans for PCDDs
+(other than
+2,3,7,8-TCDD and
+2,3,4,7,8-PCDF)
+(IARC, 1997)
+IARC:
+Group 1,
+carcinogenic
+to humans for
+2,3,7,8-TCDD and
+2,3,4,7,8-PCDF
+(IARC, 2012b)
+US EPA:
+Group B2
+probable human
+carcinogen for
+HxCDD;
+other PCDDs/
+PCDFs not assessed
+(US EPA, 1987d)","WHO, 2002
+(based on
+Faqi and
+Chahoud, 1998;
+Ohsako et al.,
+2001)"
+"Polychlorinated
+dibenzo-p-dioxins/
+polychlorinated
+dibenzofurans 2
+(PCDDs/PCDFs)",,,"Study Type: subchronic (developmental)
+Species: Wistar rats
+Mode of Administration: subcutaneous
+Exposure Regime and Duration: initial
+doses of 0, 25, 60, or 300 ng
+tetrachlorodibenzo-p-dioxin (TCDD)/kg
+BW
+followed by weekly maintenance doses at
+0, 5, 12, or 60 ng TCDD/kg beginning
+BW
+2 weeks prior to mating and continuing
+through mating, gestation, and lactation
+Uncertainty Factors: 9.6 (3 for use of a
+LOAEL rather than a NOAEL, and 3.2 for
+intraspecies variability)",,,,,
+"Polychlorinated
+dibenzo-p-dioxins/
+polychlorinated
+dibenzofurans 2
+(PCDDs/PCDFs)",,,"Ohsako et al., 2001","NOAEL (maternal
+body burden) =
+13 ng/kg -day
+BW",,"Developmental
+toxicity
+(decrease of
+ventral prostate
+weight and
+anogenital
+distance in
+male offspring)",,
+"Polychlorinated
+dibenzo-p-dioxins/
+polychlorinated
+dibenzofurans 2
+(PCDDs/PCDFs)",,,"Study Type: subchronic (developmental)
+Species: pregnant Holtzman rats
+Mode of Administration: single oral
+bolus dose by gavage on day 15
+of gestation
+Exposure Regime and Duration:
+single bolus dose (0, 12.5, 50, 200, or
+800 ng 2,3,7,8-TCDD/kg ) on day 15
+BW
+of gestation
+Uncertainty Factors: 3.2 for intraspecies
+variability",,,,,
+Pyrene,Oral TDI,"3.0E-02
+mg/kg -day
+BW","Study Type: subchronic
+Species: male and female CD-1 mice
+Mode of Administration: gavage
+(corn oil)
+Exposure Regime: 0, 75, 125, or
+250 mg/kg -day
+BW
+Duration: 13 weeks
+Uncertainty Factors: 3000 (10 for
+intraspecies variability, 10 for interspecies
+variability, 10 for a less than chronic
+study, and 3 for database deficiencies)","NOAEL =
+75 mg/kg -day
+BW","TDI = NOAEL/UF
+(TDI rounded to
+3.0E-02 mg/kg -day)
+BW","Nephrotoxicity
+(renal tubular
+pathology [lesions],
+decreased kidney
+weights)","CEPA:
+not assessed
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 2010)
+US EPA: Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1990c)","US EPA, 1990c
+(based on
+US EPA, 1989)"

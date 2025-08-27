@@ -1,0 +1,93 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Copper,Oral TDI,"4.26E-01
+mg/kg -day
+BW","Study Type: epidemiological
+(prospective)
+Species: humans
+Mode of Exposure: oral (drinking water)
+Exposure Concentrations: healthy
+infants 3 to 12 months of age
+(n = 128) were given drinking water
+with < 0.1 mg copper/L (n = 48) or
+2 mg copper/L (n = 80) (added to
+drinking water as copper sulfate)
+Duration: nine months
+Uncertainty Factors: none (attributed
+to the homeostatic regulation of copper
+absorption and excretion)","NOAEL = 2 mg/L
+(corresponding to a
+mean daily intake of
+0.318 mg/kg -day)
+BW","TDI = upper bound of
+the 95% confidence
+interval of the NOAEL","Gastrointestinal
+toxicity
+and
+Hepatotoxicity
+(liver function)","CEPA: see 2019
+(draft) CMP
+assessment
+(ECCC and HC,
+2019b)
+IARC:
+not classified
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1988a)","HC, 2019a
+(based on
+Olivares et al.,
+1998)"
+"Dichlorobenzene,
+1,2-",Oral TDI,"4.3E-01
+mg/kg -day
+BW","Study Type: chronic
+Species: rats and mice
+Mode of Administration: gavage,
+corn oil
+Exposure Regime: 0, 60, or
+120 mg/kg -day (male and female rats,
+BW
+female mice), 30 and 60 mg/kg -day
+BW
+(male mice), 5 days per week
+Duration: 103 weeks
+Uncertainty Factors: 100 (10 for
+intraspecies variability and 10 for
+interspecies variability)","NOAEL =
+60 mg/kg -day
+BW","NOAEL adjusted for
+continuous exposure
+NOAEL =
+adj
+43 mg/kg -day
+BW
+TDI = NOAEL /UF
+adj","Nephrotoxicity
+(increase
+in tubular
+regeneration
+in the kidney)","CEPA: Group V
+probably not
+carcinogenic
+to humans
+(EC and HC, 1993c)
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1999b)
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1990b)","HC, 1996
+(based on
+NTP, 1985b)"

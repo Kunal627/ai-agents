@@ -1,0 +1,120 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Arsenic,Oral SF,"1.8E+00
+(mg/kg -day)–1
+BW","Study Type: epidemiological
+Species: humans
+Mode of Exposure: oral (drinking water)
+Exposure Concentrations: concentration
+of arsenic in drinking water varied from
+less than 10 to greater than 600 µg/L
+(groundwater arsenic concentrations)
+Duration: chronic
+Uncertainty Factors: N/A","Range of unit risks
+associated with
+ingesting 1 µg/L of
+arsenic in drinking
+water:
+3.06E-06 to
+3.85E-05 (µg/L)–1
+(based on a 1%
+increase in risk)","TRV based on upper end
+of range of unit risks (URs)
+in drinking water:
+3.85E-05 (µg/L)-1
+Conversion to oral SF in
+(mg/kg -day)-1:
+BW
+Oral SF =
+UR × BW × CF / IR
+adult W
+[where BW = 70.7 kg,
+adult
+IR = 1.5 L/day, and
+W
+CF (conversion factor) =
+1000 µg/mg]","Cancer
+(bladder, lung,
+liver)","CEPA: Group I
+carcinogenic
+to humans
+(EC and HC, 1993a)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA IRIS:
+Group A
+carcinogenic
+to humans
+(US EPA, 1995a)","HC, 2006
+(based on
+Morales et al.,
+2000;
+Chen et al., 1985;
+Wu et al., 1989)"
+Arsenic,Inhalation UR,"6.4E+00
+(mg/m3)–¹","Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations: N/A
+Duration: chronic
+Uncertainty Factors: N/A","TC (5% tumourigenic
+05
+concentration) =
+7.83 µg/m³","Relative risk model
+Inhalation UR =
+0.05/TC
+05
+where 0.05 = 5% extra
+cancer risk","Cancer
+(lung)",,"EC and HC, 1993a
+(based on
+Higgins et al.,
+1986)"
+Barium,Oral TDI,"2.0E-01
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female B6C3F1 mice
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 500, 1250,
+and 2500 ppm barium chloride
+dihydrate in drinking water (daily
+doses estimated to be 0, 30, 75, and
+160 mg barium/kg -day for males, and
+BW
+0, 40, 90, and 200 mg barium/kg -day
+BW
+for females)
+Duration: 2 years
+Uncertainty Factors: 300
+(10 for intraspecies variability, 10 for
+interspecies variability, and 3 for
+database deficiencies)","BMDL =
+05
+63 mg/kg -day
+BW","TDI = BMDL / UF
+05","Nephrotoxicity
+(renal lesions)","CEPA: Group VA
+inadequate data
+for evaluation
+(HC, 1990)
+IARC:
+not classified
+US EPA IRIS:
+inhalation route -
+carcinogenic
+potential cannot
+be determined;
+oral route - not
+likely to be
+carcinogenic
+to humans
+(US EPA, 1998a)","US EPA, 2005a
+(based on
+NTP, 1994)"

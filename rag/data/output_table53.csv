@@ -1,0 +1,101 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Trichloroethylene
+(TCE)",Inhalation UR,"4.1E-03
+(mg/m3)–¹","Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations: N/A
+Duration: chronic
+Uncertainty Factors: N/A","LEC
+01
+= 2.4 mg/m3
+(lowest effective
+concentration)","Linear low-dose
+extrapolation from the
+LEC (95% lower bound on
+01
+the exposure associated
+with a 1% extra cancer risk)
++
+Application of a factor of
+4 to include non-Hodgkin’s
+lymphoma and liver cancer
+risks
+Inhalation UR =
+0.01 / LEC
+01
+where 0.01 = 1% extra
+cancer risk","Cancer
+(liver, kidney [renal
+cell carcinoma],
+non-Hodgkin’s
+lymphoma)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1993g)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2014)
+US EPA IRIS:
+carcinogenic
+to humans
+(US EPA, 2011b)","US EPA, 2011b
+(based on
+Charbotel et al.,
+2006 and
+Raaschou-Nielsen
+et al., 2003)"
+"Uranium
+(non-radioactive)",Oral TDI,"6.0E-04
+mg/kg -day
+BW","Study Type: subchronic
+Species: male and female
+Sprague-Dawley rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 0.96, 4.8, 24, 120,
+or 600 mg/L uranyl nitrate hexahydrate
+(equivalent to uranium doses of 0, 0.06,
+0.31, 1.52, 7.54, and 36.73 mg/kg -day
+BW
+in male rats, and 0, 0.09, 0.42, 2.01, 9.98,
+and 53.56 mg/kg -day in female rats)
+BW
+Duration: 91 days
+Uncertainty Factors: 100 (10
+for intraspecies variability and 10
+for interspecies variability).
+Other points of departure (including
+a NOAEL) were higher than the LOAEL
+identified by Gilman et al. (1998) and
+therefore HC (2019c) did not consider
+an uncertainty factor for use of a LOAEL
+instead of a NOAEL necessary. HC
+(2019c) did not apply an uncertainty
+factor for use of a subchronic study
+because the study was considered
+adequately sensitive since the observed
+kidney effects were similar to the minimal
+effects seen in a number of longer-term
+studies and since human absorption
+values were found to be independent
+of exposure duration (HC, 2019c).","LOAEL =
+0.06 mg/kg -day
+BW
+(males)",TDI = LOAEL/UF,"Nephrotoxicity
+(renal lesions)","CEPA:
+not assessed
+IARC:
+not assessed
+US EPA IRIS:
+not assessed","HC, 2019c
+(based on
+Gilman et al.,
+1998)"

@@ -1,0 +1,142 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Nickel sulfate,Inhalation TC,"2.0E-05
+mg/m3","Study Type: chronic
+Species: male and female F344/N rats
+and B6C3F1 mice
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: rats: 0, 0.12, 0.25,
+or 0.5 mg nickel sulfate hexahydrate/m3
+(equivalent to 0, 0.03, 0.06, or
+0.11 mg nickel/m3); mice: 0, 0.25, 0.5,
+or 1 mg nickel sulfate hexahydrate/m3
+(equivalent to 0, 0.06, 0.11, or
+0.22 mg nickel/m3); about 6 hours/day,
+5 days/week
+Duration: 104 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 10 for use of a LOAEL)",LOAEL = 0.06 mg/m3,"LOAEL adjusted for
+continuous exposure
+LOAEL = 0.011 mg/m3
+adj
+Intermediate TC =
+LOAEL /UF =
+adj
+1.1E-05 mg/m3
+Value of 0.02 µg/m3 was
+recommended as the
+European air quality
+standard based on soluble
+nickel compounds
+constituting <50% of total
+nickel compounds
+in ambient air","Respiratory tract
+toxicity
+(lung inflammation
+[chronic active
+inflammation,
+macrophage and
+lymphoid
+hyperplasia,
+alveolar
+proteinosis,
+fibrosis, lung
+lesions, and
+atrophy of the
+olfactory
+epithelium])","CEPA and IARC:
+see nickel, mixture
+of oxidic, sulfidic
+and soluble
+inorganic nickel
+compounds
+US EPA IRIS:
+not assessed","CCME, 2015
+(based on ECB,
+2008 and CSTEE,
+2001, derived
+from NTP 1996)"
+"Nickel, mixture of
+oxidic, sulfidic and
+soluble inorganic
+nickel compounds",Inhalation UR,"1.3E+00
+(mg/m3)–¹","Study Type: epidemiological
+(occupational)
+Species: humans
+Mode of Exposure: inhalation
+Exposure Concentrations: N/A
+Duration: > 6 months
+Uncertainty Factors: N/A","TC (5% tumourigenic
+05
+concentration) =
+0.04 mg/m3","Inhalation UR =
+0.05/TC
+05
+where 0.05 = 5% extra
+cancer risk","Cancer
+(lung, nasal,
+kidney, prostrate,
+buccal cavity)","CEPA:
+classified as Group I
+carcinogenic
+to humans
+(EC and HC, 1994e)
+IARC: Group 1
+classified as
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA: see
+individual nickel
+substances","EC and HC,
+1994e, and
+HC 1996
+(based on
+Doll et al., 1990)"
+"Nickel, metallic","Inhalation TC
+(provisional)","1.8E-05
+mg/m3","Study Type: subchronic
+Species: rabbits
+Mode of Administration: inhalation
+Exposure Regime: 0, 0.13 mg/m³
+metallic nickel dust, 6 hours/day,
+5 days/week
+Duration: 4 and 8 months
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+interspecies variability, and 10 for
+database deficiencies and a less
+than chronic study)",LOAEL = 0.13 mg/m3,"LOAEL (rounded to
+0.1 mg/m3) adjusted for
+continuous exposure
+LOAEL = 0.018 mg/m3
+adj
+TC = LOAEL /UF
+adj","Respiratory
+tract toxicity
+(morphological
+and biological
+effects on
+alveolar cells)","CEPA: Group VI
+unclassifiable with
+respect to
+carcinogenicity
+to humans
+(EC and HC, 1994e)
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 1990)
+US EPA IRIS:
+not classified","EC and HC,
+1994e and
+HC, 1996
+(based on
+Johansson et al.,
+1983)"

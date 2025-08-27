@@ -1,0 +1,107 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Beryllium,Oral TDI,"2.0E-03
+mg/kg -day
+BW","Study Type: chronic
+Species: dogs (5 male and 5 female
+beagles)
+Mode of Administration: diet
+Exposure Regime: 0, 1, 5, 50, or
+500 ppm beryllium as beryllium sulfate
+tetrahydrate (diets fed for 1 hour per
+day), corresponding to doses of 0.023,
+0.12, 1.1, and 12.2 mg/kg -day for
+BW
+male dogs and 0.029, 0.15, 1.3, and
+17.4 mg/kg -day for female dogs (using
+BW
+estimated time-weighted average body
+weights and a reported average food
+intake of 300 g/day)
+Duration: 0, 5, and 50 ppm group
+exposed for 172 weeks; 500 ppm dose
+group terminated at 33 weeks because
+of overt signs of toxicity; 1 ppm group
+exposed for 143 weeks.
+Uncertainty Factors: 300 (10 for
+intraspecies variability, 10 for interspecies
+variability, and 3 for database defciiencies)","BMDL =
+10
+4.6E-01 mg/kg -day
+BW","BMDL derived from
+10
+exponential polynomial
+model corresponding to
+an extra risk of 10%
+TDI = BMDL /UF
+10
+(TDI rounded to
+2.0E-03 mg/kg -day)
+BW","Gastrointestinal
+toxicity
+(lesions of the
+small intestine)","CEPA: see 2019
+(draft) Chemicals
+Management Plan
+(CMP) assessment
+(ECCC and HC,
+2019a)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012a)
+US EPA IRIS:
+oral route –
+carcinogenic
+potential cannot
+be determined;
+inhalation route
+– known/likely
+human carcinogen
+(US EPA, 1998b)","US EPA, 1998b
+(based on
+Morgareidge
+et al., 1976)"
+Beryllium,Inhalation TC,"2.0E-05
+mg/m3","Study Type epidemiological
+(occupational study)
+Species: human
+Mode of Exposure: inhalation
+Exposure Concentrations: individual
+average exposures for six chronic
+beryllium disease cases and two
+sensitized cases ranged from 0.2 to
+1.1 µg/m3, and the median of estimated
+average beryllium exposure for the
+sensitized cases was approximately
+0.55 µg/m3. Cumulative exposure
+ranged from 92.6 to 1945 µg/m3-day.
+Duration: chronic
+Uncertainty Factors: 10 (3 to account
+for the sensitive nature of the subclinical
+endpoint [beryllium sensitization], and
+3 for poor quality of exposure monitoring)
+[total uncertainty factor rounded to 10]","LOAEL =
+0.55 µg/m3","LOAEL adjusted for
+occupational inhalation rate
+and for an intermittent
+working week schedule
+LOAEL =
+HEC
+0.20 µg/m3
+TC = LOAEL /UF
+HEC","Immunotoxicity
+and
+Respiratory toxicity
+(beryllium
+sensitization and
+progression to
+chronic beryllium
+disease [chronic
+inflammatory
+lung lesions])",,"US EPA, 1998b
+(based on
+Kreiss et al., 1996)"

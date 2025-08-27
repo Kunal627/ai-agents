@@ -1,0 +1,83 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Ethylbenzene,Oral TDI,"2.2E-02
+mg/kg -day
+BW","Study Type: chronic
+Species: B6C3F1 mice
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 75, 250, or
+750 ppm (0, 330, 1100, or 3300 mg/m3)
+for 6 hours/day, 5 days/week
+Duration: 103 weeks
+Uncertainty Factors: 25 (10 for
+intraspecies variability and 2.5 for
+interspecies variability)","NOAEL = 330 mg/m3
+(75 ppm)","Estimated mouse internal
+liver concentration
+corresponding to NOAEL =
+0.08 mg/L
++
+PBPK model to obtain
+external oral dose that
+is relevant in humans
+= 0.54 mg/kg -day
+BW
+TDI = human external
+oral dose/UF","Pituitary gland
+toxicity
+(hyperplasia)
+and
+Hepatotoxicity
+(cellular alterations
+of the liver)","CEPA: see 2016
+CMP assessment
+(ECCC and
+HC, 2016)
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 2000)
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1998e)","HC, 2014b
+(based on
+NTP 1999)"
+Ethylbenzene,Inhalation TC,"2.0E+00
+mg/m3","Study Type: chronic
+Species: male and female F344/N rats
+and B6C3F1 mice
+Mode of Administration: inhalation
+Exposure Regime: 0, 75, 250, or
+750 ppm (0, 330, 1100, or 3300 mg/m3),
+6 hours/day, 5 days/week
+Duration: 104 weeks (rats);
+103 weeks (mice)
+Uncertainty Factors: 30 (10 for
+intraspecies variability and 3 for
+interspecies variability)","NOAEL = 75 ppm
+(330 mg/m3)","NOAEL adjusted for
+continuous exposure
+NOAEL = 57 mg/m3
+adj
+TC = NOAEL /UF
+adj","Pituitary gland
+toxicity
+(hyperplasia)
+and
+Hepatotoxicity
+(liver cellular
+alterations and
+necrosis)",,"HC, 2018a
+(based on
+OEHHA, 2000
+[derived from
+NTP, 1999 and
+Chan et al., 1998])"

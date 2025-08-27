@@ -1,0 +1,129 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Vinyl chloride,Oral SF,"2.4E-01
+(mg/kg -day)–¹
+BW
+for continuous
+lifetime
+exposure
+during
+adulthood
+4.8E-01
+(mg/kg -day)–¹
+BW
+for continuous
+lifetime
+exposure
+from birth","Study Type: chronic
+Species: male and female rats
+Mode of Administration: diet (mixture
+of vinyl chloride monomer [VCM] and
+polyvinyl chloride [PVC] powder)
+Exposure Regime: 0, 1.7, 5.0, or
+14.1 mg/kg -day, 4 hour feeding
+BW
+period/day; a positive control group
+was administered 300 mg/kg VCM
+BW
+in soybean oil by stomach tube,
+5 days/week
+Duration: lifetime (the experiment
+was terminated once 75% mortality was
+observed in the positive control group,
+i.e. 135 weeks for males and 144 weeks
+for females)
+Uncertainty Factors: N/A","External human
+dose associated with
+an excess lifetime risk
+of 10-5 for combined
+liver cancers =
+4.19E-05 mg/kg -day
+BW","Rat PBPK model to
+determine daily internal
+doses of vinyl chloride liver
+metabolites
++
+Multistage model to
+determine a POD
++
+Human PBPK model to
+estimate external doses
+Oral SF = 10-5 / external
+human dose
+Given animal evidence
+of early-life sensitivity to
+vinyl chloride, a factor of
+2 was applied to the oral SF
+of 2.4E-01 (mg/kg -day)–¹
+BW
+for exposure during
+adulthood, to account
+for continuous lifetime
+exposure from birth
+(HC, 2013c).","Cancer
+(liver
+[hepatocellular
+angiosarcomas
+and carcinomas])","CEPA: known
+human carcinogen
+(EC and HC, 2016)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2012b)
+US EPA IRIS:
+Group A
+carcinogenic
+to humans
+(US EPA, 2000b)","HC, 2013c
+(based on
+Feron et al., 1981)"
+Vinyl chloride,"Inhalation
+UR
+[US EPA (2000b):
+should not be
+used for
+exposures
+>10 mg/m3]","4.4E-03
+(mg/m3)–1
+for continuous
+lifetime
+exposure
+during
+adulthood
+8.8E-03
+(mg/m3)–1
+for continuous
+lifetime
+exposure
+from birth","Study Type: chronic
+Species: Sprague-Dawley female rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 1, 5, 10, 25, 50,
+100, 150, 200, 250, 500, 2500, 6000,
+or 10 000 ppm (0, 2.6, 12.8, 25.6, 63.9,
+128, 256, 383, 511, 639, 1278, 6390,
+15 340, 25 560 mg/m3) vinyl chloride,
+4 hours/day, 5 days/week
+Duration: 52 weeks
+Uncertainty Factors: N/A
+A two-fold safety factor was applied
+to the adult value to account for
+continuous lifetime exposure from birth.","Based on the 95%
+upper confidence limit
+on excess cancer risk
+in female rats","PBPK model and linearized
+multistage model","Cancer
+(liver
+[angiosarcomas,
+angiomas,
+hepatomas,
+and neoplastic
+nodules])",,"US EPA, 2000b
+(based on
+Maltoni et al.,
+1981 and 1984)"

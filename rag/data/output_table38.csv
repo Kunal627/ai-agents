@@ -1,0 +1,105 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+n-Hexane,"Oral TDI
+(provisional)","1.0E-01
+mg/kg -day
+BW","Study Type: subchronic
+Species: rats
+Mode of Administration: gavage
+Exposure Regime: 0, 66, 132, or
+264 mg/day, 7 days/week
+Duration: 4 weeks
+Uncertainty Factors: 90 (10 for
+intraspecies variability, 3 for interspecies
+variability, and 3 for deficiencies in
+the database)","POD = 8 mg/kg -day
+BW",TDI = POD/UF,"Neurotoxicity
+(motor nerve
+conduction
+velocity, mixed
+nerve conduction
+velocity)","CEPA:
+not assessed
+IARC:
+not classified
+US EPA IRIS:
+inadequate
+information to
+assess carcinogenic
+potential (US EPA,
+2005b)","CCME, 2011
+(based on EEI,
+2008 [derived
+from Ono et al.,
+1979, 1981])"
+n-Hexane,"Inhalation TC
+(provisional)","7.0E-01
+mg/m3","Study Type: subchronic
+Species: Wistar male rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: 0, 500, 1200, or
+3000 ppm nhexane vapour (0, 1762,
+4230, or 10 574 mg/m3), 12 hours/day,
+7 days/week
+Duration: 16 weeks
+Uncertainty Factors: 300 (10 for
+intraspecies variability, 3 for interspecies
+variability, 3 for use of a subchronic study,
+and 3 for database deficiencies)","BMCL = 122 ppm
+(430 mg/m3)","BMCL adjusted for
+continuous exposure
+BMCL = 215 mg/m3
+HEC
+TC = BMCL /UF
+HEC","Neurotoxicity
+(peripheral
+neuropathy –
+decreased motor
+nerve conduction
+velocity)",,"US EPA, 2005b
+(based on
+Huang et al.,
+1989)"
+Lead1,"Risk-specifci dose
+(provisional)","5.0E-04
+mg/kg -day
+BW","Study Type: epidemiological
+(meta-analysis)
+Species: humans
+Mode of Exposure: N/A
+Exposure Concentrations: N/A
+Duration: from birth or infancy until 5
+to 10 years of age
+Uncertainty Factors: none","BMDL =
+01
+0.5 µg/kg -day
+BW","95th lower confidence limit
+of the BMD associated with
+a 1 IQ point decrement
+(intake rate associated with
+a drop of 1 IQ point in a
+population of children)
+Risk-specific dose = BMDL
+01
+(no adjustment)","Neuro-
+developmental
+toxicity
+(cognitive function)","CEPA:
+not classified
+IARC: Group 2A
+probably
+carcinogenic
+to humans
+(IARC, 2006)
+US EPA IRIS:
+Group B2
+probable human
+carcinogen
+(US EPA, 1988b)","EFSA, 2013
+(based on
+Lanphear et al.,
+2005)"

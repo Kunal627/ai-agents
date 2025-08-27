@@ -1,0 +1,126 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Trichloroethylene
+(TCE)",Inhalation TC,"2.0E-03
+mg/m3","Keil et al., 2009","LOAEL =
+0.35 mg/kg -day
+BW
+POD (LOAEL)
+internal dose
+= 0.139 mg TCE
+metabolized /
+kg 3/4/day
+BW
+HEC =
+99, LOAEL
+0.033 ppm
+(0.19 mg/m3)","Candidate RfCs derived
+using a PBPK model
+integrating combined
+intraspecies, interspecies,
+and route-to-route
+extrapolation, and
+dividing by a UF.
+Candidate RfC (Keil et al.,
+2009) = 0.0019 mg/m3
+Candidate RfC
+(Johnson et al., 2003) =
+0.0021 mg/m3
+Selected RfC = midpoint
+between the candidate
+RfCs = 0.002 mg/m3","Developmental
+toxicity
+(fetal heart
+malformations)
+and
+Immunotoxicity
+(decreased thymus
+weight)","CEPA: Group II
+probably
+carcinogenic
+to humans
+(EC and HC, 1993g)
+IARC: Group 1
+carcinogenic
+to humans
+(IARC, 2014)
+US EPA IRIS:
+carcinogenic
+to humans
+(US EPA, 2011b)","US EPA, 2011b
+(based on
+Keil et al., 2009
+and
+Johnson et al.,
+2003)"
+"Trichloroethylene
+(TCE)",,,"Study Type: chronic
+Species: female B6C3F1 mice
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 1.4, and
+14 ppm (0, 0.35, 3.5 mg/kg -day)
+BW
+Duration: 30 weeks
+Uncertainty Factors: 100 (10 for
+extrapolating from a LOAEL rather than
+a NOAEL, 3 for intraspecies variability,
+and 3 for interspecies variability) [total
+uncertainty factor rounded to 100]",,,,,
+"Trichloroethylene
+(TCE)",,,"Johnson et al., 2003","POD = BMDL
+internal dose 01
+= 0.0142 mg TCE
+metabolized by
+oxidation/kg 3/4/day
+BW
+HEC =
+99, BMDL01
+0.0037 ppm
+(0.021 mg/m3)",,,,
+"Trichloroethylene
+(TCE)",,,"Study Type: developmental
+Species: pregnant Sprague-Dawley rats
+Mode of Administration: oral
+(drinking water)
+Exposure Regime: 0, 0.0025, 0.25,
+1.5, and 1100 ppm (0, 0.00045, 0.048,
+0.218 or 129 mg/kg -day) on
+BW
+gestational days 1 to 22
+Duration: 3 weeks during pregnancy
+Uncertainty Factors: 10 (3 for
+intraspecies variability, and 3
+for interspecies variability) [total
+uncertainty factor rounded to 10]",,,,,
+"Trichloroethylene
+(TCE)",Oral SF,"8.11E-04
+(mg/kg -day)–1
+BW","Study Type: chronic
+Species: male and female rats
+Mode of Administration: gavage
+Exposure Regime: 0, 500, and
+1000 mg/kg -day, 5 days/week
+BW
+Duration: 103 weeks
+Uncertainty Factors: N/A","Range of oral SFs:
+5.82E-04 to
+8.11E-04
+(mg/kg -day)–1
+BW","Linearized multistage model
+and allometric scaling
+Most conservative
+oral SF:
+8.11E-04
+(mg/kg -day)–1
+BW","Cancer
+(kidney
+[combined tubular
+cell adenomas and
+adenocarcinomas])",,"HC, 2005
+(based on
+NTP, 1988 and
+NTP, 1990)"

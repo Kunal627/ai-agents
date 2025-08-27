@@ -1,0 +1,130 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Methylmercury,"Oral TDI
+(provisional)","2.0E-04
+mg/kg -day
+BW
+(women of
+child-bearing
+age, infants,
+and children
+< 12 years)","Study Type: epidemiological
+Species: humans (children)
+Mode of Exposure: diet
+Estimated Exposure: daily intake
+estimated at 0.001 mg/kg -day
+BW
+Duration: chronic (maternal exposure)
+Uncertainty Factors: 5 (see HC [2007]
+for details)","Approximate
+threshold of 10 µg/g
+mercury in maternal
+hair, corresponding
+to a dietary
+methylmercury
+intake level of
+0.001 mg/kg -day
+BW","TDI =
+dietary methylmercury
+intake level of
+0.001 mg/kg -day /UF
+BW","Neuro-
+developmental
+toxicity","CEPA:
+not assessed
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 1993)
+US EPA IRIS:
+Group C
+possibly
+carcinogenic
+to humans
+(US EPA, 1995c)","HC, 2007
+(based on
+Grandjean et al.,
+1997)"
+Methylmercury,,"4.7E-04
+mg/kg -day
+BW
+(non-sensitive
+adults of the
+general
+population)","Study Type: epidemiological
+Species: humans (children)
+Mode of Exposure: diet
+Exposure Concentrations: daily intake
+estimated at 0.0015 mg/kg -day
+BW
+Duration: chronic (maternal exposure)
+Uncertainty Factors: 6.4 (2 for
+interindividual variability in the
+hair:blood mercury ratio, and 3.16 [100.5]
+for inter-individual variability in the rate
+of elimination)","Average mercury
+concentration of
+14 µg/g in maternal
+hair, corresponding
+to an estimated
+dietary methylmercury
+daily intake of
+0.0015 mg/kg -day
+BW","FAO/WHO (2007) pTWI =
+provisional tolerable dietary
+methylmercury weekly
+intake (daily intake ×
+7 days/week)/UF=
+0.0016 mg/kg -week
+BW
+Provisional TDI =
+pTWI x 2 for non-sensitive
+adults of the general
+population / 7 days
+in a week","Neuro-
+developmental
+toxicity",,"FAO/WHO, 2007"
+"Methylnaphthalene,
+2-",Oral TDI,"4.0E-03
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female B6C3F1 mice
+Mode of Administration: diet
+Exposure Regime: 0, 54.3, or
+113.8 mg/kg -day (males); 0, 50.3,
+BW
+or 107.6 mg/kg -day (females)
+BW
+Duration: 81 weeks
+Uncertainty Factors: 1000 (10 for
+intraspecies variability, 10 for
+interspecies variability, and 10 for
+database deficiencies)","BMDL =
+05
+3.5 mg/kg -day
+BW","TDI = BMDL /UF
+05
+(rounded to 4.0E-03
+mg/kg -day)
+BW","Respiratory tract
+toxicity
+(pulmonary
+alveolar
+proteinosis)","CEPA:
+not assessed
+IARC:
+not assessed
+US EPA IRIS:
+inadequate
+information to
+assess human
+carcinogenic
+potential
+(US EPA, 2003a)","US EPA, 2003a
+(based on
+Murata et al.,
+1997)"

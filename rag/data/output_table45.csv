@@ -1,0 +1,117 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Perfluorooctanoic
+acid (PFOA)",Oral TDI,"2.1E-05
+mg/kg -day
+BW","Study Type: subchronic
+Species: rats
+Mode of Administration: diet
+Exposure Regime: 0, 0.06, 0.64, 1.94,
+and 6.5 mg/kg -day, for 4, 7, or
+BW
+13 weeks; each dose had a recovery
+group that was observed for 8 additional
+weeks after cessation of exposure at
+week 13
+Duration: up to 13 weeks
+Uncertainty Factors: 25 (10 for
+intraspecies variability and 2.5 for
+the toxicodynamic component of the
+default interspecies uncertainty factor).
+No uncertainty factor was used for
+subchronic-to-chronic extrapolation,
+as liver effects were investigated in a
+chronic study (Butenhoff et al., 2012)
+and increasing duration of exposure
+did not appear to worsen the effects
+in the key study (Perkins et al., 2004).","BMDL =
+10
+0.05 mg/kg -day
+BW","POD =
+HEQ
+0.000521 mg/kg -day
+BW
+(BMDL /96, where 96 is
+10
+the uncertainty factor to
+account for interspecies
+toxicokinetic differences,
+for rats exposed in the
+0.01 mg/kg -day range)
+BW
+TDI = POD /UF
+HEQ","Hepatotoxicity
+(hepatocellular
+hypertrophy)","CEPA:
+not classified
+IARC: Group 2B
+possibly
+carcinogenic
+to humans
+(IARC, 2017)
+US EPA IRIS:
+suggestive
+evidence of
+carcinogenic
+potential in animals
+and humans
+(US EPA, 2016a)","HC, 2018b
+(based on
+Perkins et al.,
+2004, and Summit
+Toxicology, 2015)"
+"Perfluorooctane
+sulfonate (PFOS)",Oral TDI,"6.0E-05
+mg/kg -day
+BW","Study Type: chronic
+Species: male and female
+Sprague-Dawley rats
+Mode of Administration: diet
+Exposure Regime: 0, 0.5, 2, 5, and
+20 ppm (mean daily doses: 0, 0.024,
+0.098, 0.242, and 0.984 mg/kg -day
+BW
+for males; 0, 0.029, 0.120, 0.299,
+and 1.251 mg/kg -day for females)
+BW
+Duration: 2 years
+Uncertainty Factors: 25 (10 for
+intraspecies variability, and 2.5 for
+the toxicodynamic component of the
+default interspecies uncertainty factor)","NOAEL =
+0.024 mg/kg -day
+BW","NOAEL adjusted to
+account for decreased
+purity of the test material
+NOAEL =
+adj
+0.021 mg/kg -day
+BW
+POD =
+HEQ
+NOAEL /14 =
+adj
+0.0015 mg/kg -day
+BW
+[where 14 = dose- and
+species-specific adjustment
+factor]
+TDI = POD /UF
+HEQ","Hepatotoxicity
+(hepatocellular
+hypertrophy)","CEPA:
+not classified
+IARC:
+not classified
+US EPA IRIS:
+suggestive
+evidence of
+carcinogenic
+potential in animals
+(US EPA, 2016b)","HC, 2018c
+(based on
+Butenhoff et al.,
+2012)"

@@ -1,0 +1,109 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+"Xylenes,
+mixed isomers",Oral TDI,"1.3E-02
+mg/kg -day
+BW","Study Type: subchronic
+Species: male Wistar rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: a control group
+and 3 exposure groups: 1) m-xylene
+concentrations of 50 ppm (217 mg/m3)
+and 100 ppm (435 mg/m3), or
+2) n-butyl alcohol 50 ppm (154 mg/m3)
+and 100 ppm (308 mg/m3), or 3) a
+1:1 mixture of m-xylene and n-butyl
+alcohol (100 ppm [217 mg/m3 m-xylene +
+154 mg/m3 of n-butyl alcohol] and
+200 ppm [435 mg/m3 m-xylene +
+308 mg/m3 of n-butyl alcohol]),
+6 hours/day, 5 days/week
+Duration: 3 months
+Uncertainty Factors: 75 (10 for
+intraspecies variability, 2.5 for
+interspecies variability, and 3 for
+use of a subchronic study)","NOAEL =
+50 ppm
+(217 mg/m3)
+m-xylene","PBPK modeling to
+estimate internal rat blood
+concentration corresponding
+to NOAEL of
+50 ppm =
+0.138 mg/L
++
+Conversion to external oral
+human dose using human
+PBPK model and assuming
+ingestion of 1.5 L drinking
+water/day
+NOAEL =
+HEC
+1.0 mg/kg -day
+BW
+TDI = NOAEL /UF
+HEC","Neurotoxicity
+(impaired motor
+coordination)","CEPA: Group IV
+unlikely to be
+carcinogenic
+to humans
+(EC and HC, 1993h)
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1999a)
+US EPA IRIS:
+inadequate
+information to
+assess carcinogenic
+potential (US EPA,
+2003b)","HC, 2014b
+(based on
+Korsak et al.,
+1994)"
+"Xylenes,
+mixed isomers",Inhalation TC,"1.0E-01
+mg/m3","Study Type: subchronic
+Species: male Wistar rats
+Mode of Administration: inhalation
+(whole body exposure chambers)
+Exposure Regime: a control group
+and 3 exposure groups: 1) m-xylene
+concentrations of 50 ppm (217 mg/m3)
+and 100 ppm (435 mg/m3), or
+2) n-butyl alcohol 50 ppm (154 mg/m3)
+and 100 ppm (308 mg/m3), or 3) a
+1:1 mixture of m-xylene and n-butyl
+alcohol (100 ppm [217 mg/m3 m-xylene +
+154 mg/m3 of n-butyl alcohol] and
+200 ppm [435 mg/m3 m-xylene +
+308 mg/m3 of n-butyl alcohol]),
+6 hours/day, 5 days/week
+Duration: 3 months
+Uncertainty Factors: 300 (10 for
+intraspecies human variability, 3 for
+interspecies variability, 3 for extrapolation
+from subchronic to chronic duration,
+and 3 for database uncertainties)","NOAEL = 50 ppm
+(217 mg/m3)","NOAEL adjusted for
+continuous exposure and
+difference in blood/gas
+partitioning in rats
+vs humans
+NOAEL = 39 mg/m3
+HEC
+TC = NOAEL /UF
+HEC","Neurotoxicity
+(impaired motor
+coordination)",,"HC, 2018a
+(based on
+US EPA, 2003b
+[derived from
+Korsak et al.,
+1994])"

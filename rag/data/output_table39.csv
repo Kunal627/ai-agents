@@ -1,0 +1,65 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Manganese,Oral TDI,"2.5E-02
+mg/kg -day
+BW","Kern et al., 2010","LOAEL =
+25 mg/kg -day
+BW",TDI = LOAEL/UF,"Neuro-
+developmental
+toxicity","CEPA:
+not assessed
+IARC:
+not assessed
+US EPA:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1988c)","HC, 2019b
+(based on
+Kern et al., 2010,
+Kern and Smith,
+2011, and
+Beaudin et al.,
+2013)"
+Manganese,,,"Study Type: neonatal exposure
+Species: Sprague-Dawley rats
+Mode of Administration: oral
+Exposure Regime: 0, 25, or 50 mg
+manganese/kg -day in a sucrose
+BW
+solution for 21 days following birth
+(postnatal days [PND] 1-21)
+Duration: follow-up through PND 46",,,,,
+Manganese,,,"Kern and Smith, 2011",,,,,
+Manganese,,,"Study Type: neonatal exposure
+Species: Sprague-Dawley rats
+Mode of Administration: oral
+Exposure Regime: 0, 25, or
+50 mg manganese/kg -day in
+BW
+a sucrose solution for 21 days following
+birth (PND 1-21)
+Duration: sacrificed on PND 24 or
+observed to PND 107",,,,,
+Manganese,,,"Beaudin et al., 2013",,,,,
+Manganese,,,"Study Type: adult and neonatal exposure
+Species: Long-Evans rats
+Mode of Administration: oral
+Exposure Regime: 0, 25, or
+50 mg manganese/kg -day in a stevia
+BW
+for 21 days following birth (PND 1-21)
+or through adulthood; oral manganese
+exposure post-weaning (PND 22 to
+end of study) via drinking water
+Duration: exposure during PND 1-21
+or through adulthood",,,,,
+Manganese,,,"Uncertainty Factors (for the three
+studies): 1000 (10 for intraspecies
+variability, 10 for interspecies variability,
+and 10 for the use of a LOAEL rather
+than a NOAEL)",,,,,

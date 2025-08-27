@@ -1,0 +1,96 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Mercury (inorganic),"Oral TDI
+[For exposure to
+mercury through
+consumption of
+fish, seafood,
+and marine
+mammals, use
+the TRV for
+methylmercury,
+the predominant
+form of mercury
+in these foods.]","3.0E-04
+mg/kg -day
+BW","Druet et al., 1978","LOAEL =
+0.226 mg/kg -day
+BW
+(after conversion
+from subcutaneous
+to oral route)","US EPA selected a drinking
+water equivalent level
+(DWEL) of 0.010 mg/L
+based on the three studies.
+US EPA used the DWEL
+to derive an RfD:
+Oral RfD =
+DWEL × IR / BW
+W adult
+[where IR = 2 L/day and
+w
+BW = 70 kg]
+adult","Immunotoxicity
+(autoimmune
+glomerulonephritis)","CEPA:
+not classified
+IARC: Group 3
+not classifiable as to
+its carcinogenicity
+to humans
+(IARC, 1993)
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 1995b)","CCME, 1999a,b
+and
+US EPA, 1995b
+(based on
+Druet et al., 1978;
+Bernaudin et al.,
+1981;
+Andres, 1984)"
+Mercury (inorganic),,,"Study Type: subchronic
+Species: Brown Norway rats
+Mode of Administration: subcutaneous
+injection
+Exposure Regime: 0, 0.1, 0.25, 0.5,
+1, and 2 mg/kg , 3 times a week
+BW
+for 8 weeks; additional group at
+0.05 mg/kg for 12 weeks
+BW
+Duration: 8 or 12 weeks",,,,,
+Mercury (inorganic),,,"Bernaudin et al., 1981","LOAEL =
+0.317 mg/kg -day
+BW",,,,
+Mercury (inorganic),,,"Study Type: subchronic
+Species: Brown Norway rats
+Mode of Administration: gavage (food)
+Exposure Regime: 0 or 3 mg HgCl
+2
+(equivalent to 2.22 mg Hg)/kg per week
+BW
+Duration: 60 days",,,,,
+Mercury (inorganic),,,"Andres, 1984","LOAEL =
+0.633 mg/kg -day
+BW",,,,
+Mercury (inorganic),,,"Study Type: subchronic
+Species: Brown Norway rats and
+Lewis rats
+Mode of Administration: gavage (water)
+Exposure Regime: 3 mg HgCl
+2
+(equivalent to 2.22 mg Hg)/kg , 2 times
+BW
+per week
+Duration: 60 days",,,,,
+Mercury (inorganic),,,"Uncertainty Factors: 1000 (10 for use
+of subchronic studies, 10 for intraspecies
+and interspecies variability, and 10 for
+LOAEL to NOAEL conversion)",,,,,

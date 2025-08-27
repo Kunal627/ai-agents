@@ -1,0 +1,104 @@
+Substance,Type of TRV,TRV Value,Study Details,"Threshold/
+Non-threshold
+Endpoint",TRV Derivation Method,"Critical
+Effect(s)","Carcinogenicity
+Classification",Source
+Zinc,"UL (HC)
+__________
+0 to <6 mo
+6 mo to <5 yrs
+5 to <12 yrs
+12 to <20 yrs
+≥20 years","mg/kg -day
+BW
+__________
+4.9E-01
+4.8E-01
+5.1E-01
+5.4E-01
+5.7E-01","Yadrick et al., 1989 (adults)","LOAEL = 60 mg/day
+(adults)","UL (IOM) =
+LOAEL/UF for intake of
+zinc from food, water,
+and supplements
+IOM adult ULs were
+adjusted to account
+for differences in HC’s
+adult age group
+(HC, 2010)","Decrease in
+erythrocyte
+superoxide
+dismutase (ESOD)
+activity
+(sensitive indicator
+of copper status,
+reflecting copper
+utilization and the
+risk of copper
+deficiency)","CEPA: see 2019
+(draft) CMP
+assessment
+(ECCC and HC,
+2019c)
+IARC:
+not assessed
+US EPA IRIS:
+Group D
+not classifiable
+as to human
+carcinogenicity
+(US EPA, 2005d)","IOM, 2001
+(based on
+Yadrick et al.,
+1989, and
+Walravens and
+Hambidge, 1976)"
+Zinc,,,"Study Type: epidemiological
+(prospective)
+Species: humans (adult women)
+Mode of Exposure: dietary supplements
+Exposure Concentrations: 10 mg/day
+(estimated dietary intake) + supplemental
+intake of 50 mg/day as zinc gluconate
+Duration: 10 weeks
+Uncertainty Factors: 1.5 (for
+intraspecies variability and extrapolation
+from a LOAEL to a NOAEL)",,,,,
+Zinc,,,"Walravens and Hambidge, 1976
+(infants, children, and adolescents)","NOAEL = 5.8 mg/L
+(infants)","NOAEL adjusted for
+estimated average human
+milk intake of 0.78 L/day
+NOAEL = 4.5 mg/day
+adj
+Infant UL (IOM) =
+NOAEL /UF =
+adj
+4.5 mg/day (4 mg/day
+rounded down)
+IOM derived ULs for older
+infants, children, and
+adolescents based on
+the infant UL and relative
+body weight
+IOM ULs were adjusted to
+account for differences in
+HC’s age groups (HC, 2010)","No effects of zinc
+on serum copper
+or cholesterol
+concentrations
+or other adverse
+effects were found",,
+Zinc,,,"Study Type: epidemiological
+(prospective)
+Species: humans (infants, 0-6 months)
+Mode of Exposure: dietary supplements
+Exposure Concentrations: control
+group: formula with 1.8 mg zinc/L;
+exposure group: formula with
+1.8 mgzinc/L + supplement with
+4 mg zinc/L (total of 5.8 mg zinc/L)
+Duration: 6 months
+Uncertainty Factors: 1 (because of
+a lack of evidence that formula intakes
+of 5.8 mg zinc/L result in infant toxicity)",,,,,
