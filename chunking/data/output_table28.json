@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Beryllium | type_of_trv: Inhalation UR | trv_value: 2.4E+00\n(mg/m3)\u2013\u00b9 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: humans (male)\nMode of Exposure: inhalation\nExposure Concentrations: range of\nmedian exposure levels inside plants\n(100-1000 \u03bcg/m3) estimated in NIOSH\u2019s\nindustrial hygiene reviews\nDuration: The cohort employed between\n1942 and 1967 was followed through\n1975. The subcohort upon which the\ninhalation UR is based was followed\nfor at least 25 years.\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Range of upper\nbound unit risks:\n1.6E-04 (\u00b5g/m3)\u20131 to\n7.2E-03 (\u00b5g/m3)\u20131 | trv_derivation_method: Linear relative risk model\nGeometric mean of upper\nbound unit risks\n=\n2.4E-03 (\u03bcg/m3)\u20131 | critical_effect_s: Cancer\n(lung) | carcinogenicity_classification: CEPA: see 2019\n(draft) Chemicals\nManagement Plan\n(CMP) assessment\n(ECCC and HC,\n2019a)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012a)\nUS EPA IRIS:\noral route \u2013\ncarcinogenic\npotential cannot\nbe determined;\ninhalation route\n\u2013 known/likely\nhuman carcinogen\n(US EPA, 1998b) | source: US EPA, 1998b\n(based on\nWagoner et al.,\n1980; NIOSH,\n1972)",
+        "metadata": {
+            "table_name": "output_table28",
+            "page": 28,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Cadmium | type_of_trv: Oral TDI\n(provisional) | trv_value: 8.0E-04\nmg/kg -day\nBW | study_details: Study Type: epidemiological\n(meta-analysis)\nSpecies: humans\nMode of Exposure: environmental\n(primarily through food)\nExposure Concentrations: N/A\nDuration: chronic\nUncertainty Factors: toxicodynamic\nand toxicokinetic variability incorporated\n(using Monte Carlo simulation) into the\ntoxicokinetic model relating cadmium\nconcentration in urine to dietary intake | threshold_non_threshold_endpoint: NOAEL =\n5.24 \u00b5g Cd/g\ncreatinine\nin urine\n(corresponds to a\ndietary cadmium\nexposure of\n1.2 \u00b5g Cd/kg -day\nBW\n[5th-95th percentiles:\n0.8-1.8 \u00b5g Cd/\nkg -day])\nBW | trv_derivation_method: Lower bound of\n0.8 \u00b5g/kg -day retained\nBW\nas oral TDI to account for\nparticularly susceptible\nindividuals\nThis oral TDI is reported by\nWHO (2011) as a provisional\nmonthly tolerable intake\nof 25 \u00b5g/kg\nBW | critical_effect_s: Nephrotoxicity\n(renal tubular\ndysfunction) | carcinogenicity_classification: CEPA: probably\ncarcinogenic\nto humans\n(inhalation pathway)\n(EC and HC, 1994b)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012a)\nUS EPA IRIS:\nGroup B1\nprobably\ncarcinogenic\nto humans\n(US EPA, 1987a) | source: WHO, 2011",
+        "metadata": {
+            "table_name": "output_table28",
+            "page": 28,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Cadmium | type_of_trv: Inhalation UR | trv_value: 4.2E+00\n(mg/m\u00b3)\u2013\u00b9 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: humans\nMode of Exposure: inhalation of dusts\nof cadmium oxide and cadmium sulfide,\nand cadmium fumes\nExposure Concentrations: Equivalent\nlifetime exposure in \u00b5g/m3 = 2, 11.8,\nand 41 \u00b5g Cd/m3 (based on 24 hour/day\nexposure and an estimated average\nlifetime of 61.5 years)\nDuration: at least two years\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Range of excess\ncancer risk for the\nexposed population:\n2.0E-03 (\u00b5g/m3)\u20131\nto 1.2E-02 (\u00b5g/m3)\u20131 | trv_derivation_method: Poisson regression model\nfitted to occupational\nmortality data\n+\nExtrapolation to ambient\nlevels in California | critical_effect_s: Cancer\n(lung) | source: OEHHA, 2011\n(based on\nThun et al., 1985,\n1986; CDHS,\n1986; CDHS,\n1990)",
+        "metadata": {
+            "table_name": "output_table28",
+            "page": 28,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

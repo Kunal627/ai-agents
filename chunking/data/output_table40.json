@@ -1,0 +1,128 @@
+[
+    {
+        "text": "substance: Mercury (inorganic) | type_of_trv: Oral TDI\n[For exposure to\nmercury through\nconsumption of\nfish, seafood,\nand marine\nmammals, use\nthe TRV for\nmethylmercury,\nthe predominant\nform of mercury\nin these foods.] | trv_value: 3.0E-04\nmg/kg -day\nBW | study_details: Druet et al., 1978 | threshold_non_threshold_endpoint: LOAEL =\n0.226 mg/kg -day\nBW\n(after conversion\nfrom subcutaneous\nto oral route) | trv_derivation_method: US EPA selected a drinking\nwater equivalent level\n(DWEL) of 0.010 mg/L\nbased on the three studies.\nUS EPA used the DWEL\nto derive an RfD:\nOral RfD =\nDWEL \u00d7 IR / BW\nW adult\n[where IR = 2 L/day and\nw\nBW = 70 kg]\nadult | critical_effect_s: Immunotoxicity\n(autoimmune\nglomerulonephritis) | carcinogenicity_classification: CEPA:\nnot classified\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 1993)\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1995b) | source: CCME, 1999a,b\nand\nUS EPA, 1995b\n(based on\nDruet et al., 1978;\nBernaudin et al.,\n1981;\nAndres, 1984)",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Study Type: subchronic\nSpecies: Brown Norway rats\nMode of Administration: subcutaneous\ninjection\nExposure Regime: 0, 0.1, 0.25, 0.5,\n1, and 2 mg/kg , 3 times a week\nBW\nfor 8 weeks; additional group at\n0.05 mg/kg for 12 weeks\nBW\nDuration: 8 or 12 weeks",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Bernaudin et al., 1981 | threshold_non_threshold_endpoint: LOAEL =\n0.317 mg/kg -day\nBW",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Study Type: subchronic\nSpecies: Brown Norway rats\nMode of Administration: gavage (food)\nExposure Regime: 0 or 3 mg HgCl\n2\n(equivalent to 2.22 mg Hg)/kg per week\nBW\nDuration: 60 days",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Andres, 1984 | threshold_non_threshold_endpoint: LOAEL =\n0.633 mg/kg -day\nBW",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Study Type: subchronic\nSpecies: Brown Norway rats and\nLewis rats\nMode of Administration: gavage (water)\nExposure Regime: 3 mg HgCl\n2\n(equivalent to 2.22 mg Hg)/kg , 2 times\nBW\nper week\nDuration: 60 days",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury (inorganic) | study_details: Uncertainty Factors: 1000 (10 for use\nof subchronic studies, 10 for intraspecies\nand interspecies variability, and 10 for\nLOAEL to NOAEL conversion)",
+        "metadata": {
+            "table_name": "output_table40",
+            "page": 40,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

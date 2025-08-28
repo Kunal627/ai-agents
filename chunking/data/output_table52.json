@@ -1,0 +1,92 @@
+[
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | type_of_trv: Inhalation TC | trv_value: 2.0E-03\nmg/m3 | study_details: Keil et al., 2009 | threshold_non_threshold_endpoint: LOAEL =\n0.35 mg/kg -day\nBW\nPOD (LOAEL)\ninternal dose\n= 0.139 mg TCE\nmetabolized /\nkg 3/4/day\nBW\nHEC =\n99, LOAEL\n0.033 ppm\n(0.19 mg/m3) | trv_derivation_method: Candidate RfCs derived\nusing a PBPK model\nintegrating combined\nintraspecies, interspecies,\nand route-to-route\nextrapolation, and\ndividing by a UF.\nCandidate RfC (Keil et al.,\n2009) = 0.0019 mg/m3\nCandidate RfC\n(Johnson et al., 2003) =\n0.0021 mg/m3\nSelected RfC = midpoint\nbetween the candidate\nRfCs = 0.002 mg/m3 | critical_effect_s: Developmental\ntoxicity\n(fetal heart\nmalformations)\nand\nImmunotoxicity\n(decreased thymus\nweight) | carcinogenicity_classification: CEPA: Group II\nprobably\ncarcinogenic\nto humans\n(EC and HC, 1993g)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2014)\nUS EPA IRIS:\ncarcinogenic\nto humans\n(US EPA, 2011b) | source: US EPA, 2011b\n(based on\nKeil et al., 2009\nand\nJohnson et al.,\n2003)",
+        "metadata": {
+            "table_name": "output_table52",
+            "page": 52,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | study_details: Study Type: chronic\nSpecies: female B6C3F1 mice\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 1.4, and\n14 ppm (0, 0.35, 3.5 mg/kg -day)\nBW\nDuration: 30 weeks\nUncertainty Factors: 100 (10 for\nextrapolating from a LOAEL rather than\na NOAEL, 3 for intraspecies variability,\nand 3 for interspecies variability) [total\nuncertainty factor rounded to 100]",
+        "metadata": {
+            "table_name": "output_table52",
+            "page": 52,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | study_details: Johnson et al., 2003 | threshold_non_threshold_endpoint: POD = BMDL\ninternal dose 01\n= 0.0142 mg TCE\nmetabolized by\noxidation/kg 3/4/day\nBW\nHEC =\n99, BMDL01\n0.0037 ppm\n(0.021 mg/m3)",
+        "metadata": {
+            "table_name": "output_table52",
+            "page": 52,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | study_details: Study Type: developmental\nSpecies: pregnant Sprague-Dawley rats\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 0.0025, 0.25,\n1.5, and 1100 ppm (0, 0.00045, 0.048,\n0.218 or 129 mg/kg -day) on\nBW\ngestational days 1 to 22\nDuration: 3 weeks during pregnancy\nUncertainty Factors: 10 (3 for\nintraspecies variability, and 3\nfor interspecies variability) [total\nuncertainty factor rounded to 10]",
+        "metadata": {
+            "table_name": "output_table52",
+            "page": 52,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | type_of_trv: Oral SF | trv_value: 8.11E-04\n(mg/kg -day)\u20131\nBW | study_details: Study Type: chronic\nSpecies: male and female rats\nMode of Administration: gavage\nExposure Regime: 0, 500, and\n1000 mg/kg -day, 5 days/week\nBW\nDuration: 103 weeks\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Range of oral SFs:\n5.82E-04 to\n8.11E-04\n(mg/kg -day)\u20131\nBW | trv_derivation_method: Linearized multistage model\nand allometric scaling\nMost conservative\noral SF:\n8.11E-04\n(mg/kg -day)\u20131\nBW | critical_effect_s: Cancer\n(kidney\n[combined tubular\ncell adenomas and\nadenocarcinomas]) | source: HC, 2005\n(based on\nNTP, 1988 and\nNTP, 1990)",
+        "metadata": {
+            "table_name": "output_table52",
+            "page": 52,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Xylenes,\nmixed isomers | type_of_trv: Oral TDI | trv_value: 1.3E-02\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: male Wistar rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: a control group\nand 3 exposure groups: 1) m-xylene\nconcentrations of 50 ppm (217 mg/m3)\nand 100 ppm (435 mg/m3), or\n2) n-butyl alcohol 50 ppm (154 mg/m3)\nand 100 ppm (308 mg/m3), or 3) a\n1:1 mixture of m-xylene and n-butyl\nalcohol (100 ppm [217 mg/m3 m-xylene +\n154 mg/m3 of n-butyl alcohol] and\n200 ppm [435 mg/m3 m-xylene +\n308 mg/m3 of n-butyl alcohol]),\n6 hours/day, 5 days/week\nDuration: 3 months\nUncertainty Factors: 75 (10 for\nintraspecies variability, 2.5 for\ninterspecies variability, and 3 for\nuse of a subchronic study) | threshold_non_threshold_endpoint: NOAEL =\n50 ppm\n(217 mg/m3)\nm-xylene | trv_derivation_method: PBPK modeling to\nestimate internal rat blood\nconcentration corresponding\nto NOAEL of\n50 ppm =\n0.138 mg/L\n+\nConversion to external oral\nhuman dose using human\nPBPK model and assuming\ningestion of 1.5 L drinking\nwater/day\nNOAEL =\nHEC\n1.0 mg/kg -day\nBW\nTDI = NOAEL /UF\nHEC | critical_effect_s: Neurotoxicity\n(impaired motor\ncoordination) | carcinogenicity_classification: CEPA: Group IV\nunlikely to be\ncarcinogenic\nto humans\n(EC and HC, 1993h)\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 1999a)\nUS EPA IRIS:\ninadequate\ninformation to\nassess carcinogenic\npotential (US EPA,\n2003b) | source: HC, 2014b\n(based on\nKorsak et al.,\n1994)",
+        "metadata": {
+            "table_name": "output_table55",
+            "page": 55,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Xylenes,\nmixed isomers | type_of_trv: Inhalation TC | trv_value: 1.0E-01\nmg/m3 | study_details: Study Type: subchronic\nSpecies: male Wistar rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: a control group\nand 3 exposure groups: 1) m-xylene\nconcentrations of 50 ppm (217 mg/m3)\nand 100 ppm (435 mg/m3), or\n2) n-butyl alcohol 50 ppm (154 mg/m3)\nand 100 ppm (308 mg/m3), or 3) a\n1:1 mixture of m-xylene and n-butyl\nalcohol (100 ppm [217 mg/m3 m-xylene +\n154 mg/m3 of n-butyl alcohol] and\n200 ppm [435 mg/m3 m-xylene +\n308 mg/m3 of n-butyl alcohol]),\n6 hours/day, 5 days/week\nDuration: 3 months\nUncertainty Factors: 300 (10 for\nintraspecies human variability, 3 for\ninterspecies variability, 3 for extrapolation\nfrom subchronic to chronic duration,\nand 3 for database uncertainties) | threshold_non_threshold_endpoint: NOAEL = 50 ppm\n(217 mg/m3) | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure and\ndifference in blood/gas\npartitioning in rats\nvs humans\nNOAEL = 39 mg/m3\nHEC\nTC = NOAEL /UF\nHEC | critical_effect_s: Neurotoxicity\n(impaired motor\ncoordination) | source: HC, 2018a\n(based on\nUS EPA, 2003b\n[derived from\nKorsak et al.,\n1994])",
+        "metadata": {
+            "table_name": "output_table55",
+            "page": 55,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

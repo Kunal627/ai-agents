@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Toluene | type_of_trv: Inhalation TC | trv_value: 2.3E+00\nmg/m3 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: humans (printing shop workers)\nMode of Exposure: inhalation\nExposure Concentrations: high\nexposure group (106 subjects) =\n26 ppm (98 mg/m3); low exposure group\n(86 subjects) = 3 ppm (11 mg/m3)\nDuration: long duration (21 years)\nand shorter duration (6 years)\nUncertainty Factors: 10 (3.16 for\npharmacokinetic variability and 3.16\nfor pharmacodynamics variability) | threshold_non_threshold_endpoint: NOAEL = 26 ppm\n(98 mg/m3) | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure\n(assuming 8 hours/day,\n5 days/week to 24 hours/\nday, 7 days/week)\nNOAEL = 23 mg/m3\nadj\nTC = NOAEL /UF\nadj | critical_effect_s: Neurotoxicity\n(cognitive function:\nattention, memory\nand psychomotor\nfunction) | carcinogenicity_classification: CEPA: Group IV\nunlikely to be\ncarcinogenic to\nhumans\n(EC and HC, 1992b)\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 1999a)\nUS EPA IRIS:\ninadequate\ninformation to\nassess carcinogenic\npotential (US EPA,\n2005c) | source: HC, 2011b\n(based on\nSeeber et al.,\n2004, 2005)",
+        "metadata": {
+            "table_name": "output_table51",
+            "page": 51,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene\n(TCE) | type_of_trv: Oral TDI | trv_value: 1.46E-03\nmg/kg -day\nBW | study_details: Study Type: subchronic (developmental)\nSpecies: Sprague-Dawley rats\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 1.5, and\n1100 ppm (equivalent to 0, 0.18, and\n132 mg/kg -day); 3 dosing regimes:\nBW\n1) 3 months before pregnancy,\n2) 2 months before and 21 days during\npregnancy, or 3) 21 days during\npregnancy only\nDuration: variable (see Exposure\nRegime above)\nUncertainty Factors: 100 (10 for\nintraspecies variability and 10\nfor interspecies variability) | threshold_non_threshold_endpoint: BMDL =\n10\n0.146 mg/kg -day\nBW | trv_derivation_method: BMD model\nTDI = BMDL /UF\n10 | critical_effect_s: Developmental\ntoxicity\n(fetal heart defects) | carcinogenicity_classification: CEPA: Group II\nprobably\ncarcinogenic\nto humans\n(EC and HC, 1993g)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2014)\nUS EPA IRIS:\ncarcinogenic\nto humans\n(US EPA, 2011b) | source: HC, 2005\n(based on\nDawson et al.,\n1993)",
+        "metadata": {
+            "table_name": "output_table51",
+            "page": 51,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

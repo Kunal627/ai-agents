@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Vinyl chloride | type_of_trv: Oral SF | trv_value: 2.4E-01\n(mg/kg -day)\u2013\u00b9\nBW\nfor continuous\nlifetime\nexposure\nduring\nadulthood\n4.8E-01\n(mg/kg -day)\u2013\u00b9\nBW\nfor continuous\nlifetime\nexposure\nfrom birth | study_details: Study Type: chronic\nSpecies: male and female rats\nMode of Administration: diet (mixture\nof vinyl chloride monomer [VCM] and\npolyvinyl chloride [PVC] powder)\nExposure Regime: 0, 1.7, 5.0, or\n14.1 mg/kg -day, 4 hour feeding\nBW\nperiod/day; a positive control group\nwas administered 300 mg/kg VCM\nBW\nin soybean oil by stomach tube,\n5 days/week\nDuration: lifetime (the experiment\nwas terminated once 75% mortality was\nobserved in the positive control group,\ni.e. 135 weeks for males and 144 weeks\nfor females)\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: External human\ndose associated with\nan excess lifetime risk\nof 10-5 for combined\nliver cancers =\n4.19E-05 mg/kg -day\nBW | trv_derivation_method: Rat PBPK model to\ndetermine daily internal\ndoses of vinyl chloride liver\nmetabolites\n+\nMultistage model to\ndetermine a POD\n+\nHuman PBPK model to\nestimate external doses\nOral SF = 10-5 / external\nhuman dose\nGiven animal evidence\nof early-life sensitivity to\nvinyl chloride, a factor of\n2 was applied to the oral SF\nof 2.4E-01 (mg/kg -day)\u2013\u00b9\nBW\nfor exposure during\nadulthood, to account\nfor continuous lifetime\nexposure from birth\n(HC, 2013c). | critical_effect_s: Cancer\n(liver\n[hepatocellular\nangiosarcomas\nand carcinomas]) | carcinogenicity_classification: CEPA: known\nhuman carcinogen\n(EC and HC, 2016)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012b)\nUS EPA IRIS:\nGroup A\ncarcinogenic\nto humans\n(US EPA, 2000b) | source: HC, 2013c\n(based on\nFeron et al., 1981)",
+        "metadata": {
+            "table_name": "output_table54",
+            "page": 54,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Vinyl chloride | type_of_trv: Inhalation\nUR\n[US EPA (2000b):\nshould not be\nused for\nexposures\n>10 mg/m3] | trv_value: 4.4E-03\n(mg/m3)\u20131\nfor continuous\nlifetime\nexposure\nduring\nadulthood\n8.8E-03\n(mg/m3)\u20131\nfor continuous\nlifetime\nexposure\nfrom birth | study_details: Study Type: chronic\nSpecies: Sprague-Dawley female rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 1, 5, 10, 25, 50,\n100, 150, 200, 250, 500, 2500, 6000,\nor 10 000 ppm (0, 2.6, 12.8, 25.6, 63.9,\n128, 256, 383, 511, 639, 1278, 6390,\n15 340, 25 560 mg/m3) vinyl chloride,\n4 hours/day, 5 days/week\nDuration: 52 weeks\nUncertainty Factors: N/A\nA two-fold safety factor was applied\nto the adult value to account for\ncontinuous lifetime exposure from birth. | threshold_non_threshold_endpoint: Based on the 95%\nupper confidence limit\non excess cancer risk\nin female rats | trv_derivation_method: PBPK model and linearized\nmultistage model | critical_effect_s: Cancer\n(liver\n[angiosarcomas,\nangiomas,\nhepatomas,\nand neoplastic\nnodules]) | source: US EPA, 2000b\n(based on\nMaltoni et al.,\n1981 and 1984)",
+        "metadata": {
+            "table_name": "output_table54",
+            "page": 54,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "text": "substance: Polychlorinated\ndibenzo-p-dioxins/\npolychlorinated\ndibenzofurans 2\n(PCDDs/PCDFs) | type_of_trv: Oral TDI\n(provisional) | trv_value: 2.3E-09 TEQ\nmg/kg -day\nBW | study_details: Faqi et al., 1998 | threshold_non_threshold_endpoint: LOAEL (maternal\nbody burden) =\n25 ng/kg -day\nBW | trv_derivation_method: BMD modeling to\nextrapolate NOAEL and\nLOAEL based on maternal\nbody burden, to estimate\nequivalent monthly human\nintakes (EHMIs)\npTMI = EHMI/UF\nRange of pTMIs =\n40-100 pg/kg -month\nBW\nmid-point of pTMI range =\n70 pg/kg -month\nBW\npTDI = pTMI/30 days\nper month | critical_effect_s: Developmental\ntoxicity\n(decreased sperm\nproduction and\naltered sexual\nbehaviour in\nmale offspring) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC:\nGroup 3\nnot classifiable as to\ncarcinogenicity to\nhumans for PCDDs\n(other than\n2,3,7,8-TCDD and\n2,3,4,7,8-PCDF)\n(IARC, 1997)\nIARC:\nGroup 1,\ncarcinogenic\nto humans for\n2,3,7,8-TCDD and\n2,3,4,7,8-PCDF\n(IARC, 2012b)\nUS EPA:\nGroup B2\nprobable human\ncarcinogen for\nHxCDD;\nother PCDDs/\nPCDFs not assessed\n(US EPA, 1987d) | source: WHO, 2002\n(based on\nFaqi and\nChahoud, 1998;\nOhsako et al.,\n2001)",
+        "metadata": {
+            "table_name": "output_table47",
+            "page": 47,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Polychlorinated\ndibenzo-p-dioxins/\npolychlorinated\ndibenzofurans 2\n(PCDDs/PCDFs) | study_details: Study Type: subchronic (developmental)\nSpecies: Wistar rats\nMode of Administration: subcutaneous\nExposure Regime and Duration: initial\ndoses of 0, 25, 60, or 300 ng\ntetrachlorodibenzo-p-dioxin (TCDD)/kg\nBW\nfollowed by weekly maintenance doses at\n0, 5, 12, or 60 ng TCDD/kg beginning\nBW\n2 weeks prior to mating and continuing\nthrough mating, gestation, and lactation\nUncertainty Factors: 9.6 (3 for use of a\nLOAEL rather than a NOAEL, and 3.2 for\nintraspecies variability)",
+        "metadata": {
+            "table_name": "output_table47",
+            "page": 47,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Polychlorinated\ndibenzo-p-dioxins/\npolychlorinated\ndibenzofurans 2\n(PCDDs/PCDFs) | study_details: Ohsako et al., 2001 | threshold_non_threshold_endpoint: NOAEL (maternal\nbody burden) =\n13 ng/kg -day\nBW | critical_effect_s: Developmental\ntoxicity\n(decrease of\nventral prostate\nweight and\nanogenital\ndistance in\nmale offspring)",
+        "metadata": {
+            "table_name": "output_table47",
+            "page": 47,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Polychlorinated\ndibenzo-p-dioxins/\npolychlorinated\ndibenzofurans 2\n(PCDDs/PCDFs) | study_details: Study Type: subchronic (developmental)\nSpecies: pregnant Holtzman rats\nMode of Administration: single oral\nbolus dose by gavage on day 15\nof gestation\nExposure Regime and Duration:\nsingle bolus dose (0, 12.5, 50, 200, or\n800 ng 2,3,7,8-TCDD/kg ) on day 15\nBW\nof gestation\nUncertainty Factors: 3.2 for intraspecies\nvariability",
+        "metadata": {
+            "table_name": "output_table47",
+            "page": 47,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Pyrene | type_of_trv: Oral TDI | trv_value: 3.0E-02\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: male and female CD-1 mice\nMode of Administration: gavage\n(corn oil)\nExposure Regime: 0, 75, 125, or\n250 mg/kg -day\nBW\nDuration: 13 weeks\nUncertainty Factors: 3000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, 10 for a less than chronic\nstudy, and 3 for database deficiencies) | threshold_non_threshold_endpoint: NOAEL =\n75 mg/kg -day\nBW | trv_derivation_method: TDI = NOAEL/UF\n(TDI rounded to\n3.0E-02 mg/kg -day)\nBW | critical_effect_s: Nephrotoxicity\n(renal tubular\npathology [lesions],\ndecreased kidney\nweights) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 2010)\nUS EPA: Group D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1990c) | source: US EPA, 1990c\n(based on\nUS EPA, 1989)",
+        "metadata": {
+            "table_name": "output_table47",
+            "page": 47,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

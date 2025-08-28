@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Naphthalene | type_of_trv: Oral TDI | trv_value: 2.0E-02\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: male and female F344 rats\nMode of Administration: gavage\n(corn oil)\nExposure Regime: 0, 25, 50, 100, 200,\nor 400 mg/kg , 5 days/week\nBW\nDuration: 13 weeks\nUncertainty Factors: 3000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, 10 for use of a subchronic\nstudy, and 3 for database deficiencies) | threshold_non_threshold_endpoint: NOAEL =\n100 mg/kg -day\nBW | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure\nNOAEL = 71 mg/kg -day\nadj BW\nTDI = NOAEL /UF\nadj\n(rounded to\n2.0E-02 mg/kg -day)\nBW | critical_effect_s: Decreased\nbody weight | carcinogenicity_classification: CEPA:\nnot assessed\nIARC:\nGroup 2B\npossibly\ncarcinogenic to\nhumans\n(IARC, 2002)\nUS EPA IRIS:\nGroup C\npossibly\ncarcinogenic\nto humans\n(US EPA, 1998f) | source: US EPA, 1998f\n(based on\nBCL, 1980)",
+        "metadata": {
+            "table_name": "output_table42",
+            "page": 42,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Naphthalene | type_of_trv: Inhalation TC | trv_value: 1.0E-02\nmg/m3 | study_details: Study Type: chronic\nSpecies: F344 rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 10, 30, or 60 ppm\n(0, 52, 157, or 315 mg/m3) for 6 hours per\nday plus T (12 minutes for the time to\n90\nachieve 90% of the target concentration\nafter vapour generation), 5 days per week\nDuration: 105 weeks\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, and 10 for database defciiencies) | threshold_non_threshold_endpoint: LOAEL = 52 mg/m3\n(10 ppm) | trv_derivation_method: LOAEL adjusted for\ncontinuous exposure\nLOAEL =\nadj\n9.3 mg/m3 (1.8 ppm)\nTC = LOAEL /UF\nadj | critical_effect_s: Respiratory tract\ntoxicity\n(nasal lesions\n[neuroblastoma\nof the olfactory\nepithelium, and\nadenoma of the\nrespiratory\nepithelium of\nthe nose]) | source: HC, 2013b\n(based on\nNTP, 2000)",
+        "metadata": {
+            "table_name": "output_table42",
+            "page": 42,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Nickel chloride | type_of_trv: Oral TDI | trv_value: 1.3E-03\nmg/kg -day\nBW | study_details: Study Type: reproductive\nSpecies: female Long-Evans rats\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 10, 50, and\n250 ppm Ni2+ (equivalent to 0, 1.3, 6.7,\nand 31.6 mg Ni2+/kg -day, respectively)\nBW\nDuration: 11 weeks prior to mating (with\nunexposed males). Nickel administration\ncontinued through two successive\ngestation and lactation periods.\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, and 10 for use of a LOAEL\ninstead of a NOAEL) | threshold_non_threshold_endpoint: LOAEL =\n1.3 mg Ni2+/kg -day\nBW | trv_derivation_method: TDI = LOAEL/UF | critical_effect_s: Reproductive\ntoxicity\n(perinatal death) | carcinogenicity_classification: See nickel, mixture\nof oxidic, sulfidic\nand soluble\ninorganic nickel\ncompounds | source: HC, 1996\n(based on\nSmith et al., 1993)",
+        "metadata": {
+            "table_name": "output_table42",
+            "page": 42,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

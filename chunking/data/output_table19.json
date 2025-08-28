@@ -1,0 +1,506 @@
+[
+    {
+        "text": "pah: Anthanthrene | cas_no: 191-26-4 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[c]chrysene | cas_no: 194-69-4 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[g]chrysene | cas_no: 196-78-1 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[c]phenanthrene | cas_no: 195-19-7 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Cyclopenta[c,d]pyrene | cas_no: 27208-37-3 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,e]fluoranthene | cas_no: 5385-75-1 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,e]pyrene | cas_no: 192-65-4 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,h]pyrene | cas_no: 189-64-0 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,i]pyrene | cas_no: 189-55-9 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,l]pyrene | cas_no: 191-30-0 | provisional_benzo_a_pyrene_rpf1: 100.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 9,10- Dimethylanthracene | cas_no: 781-43-1 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 7,12- Dimethylbenzo[a]anthracene | cas_no: 57-97-6 | provisional_benzo_a_pyrene_rpf1: 10.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 1,2- Dimethylbenzo[a]pyrene | cas_no: 16757-85-0 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 1,6- Dimethylbenzo[a]pyrene | cas_no: 16757-90-7 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 3,6- Dimethylbenzo[a]pyrene | cas_no: 16757-91-8 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 4,5- Dimethylbenzo[a]pyrene | cas_no: 16757-89-4 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5,6- Dimethylchrysene | cas_no: 3697-27-6 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5,7- Dimethylchrysene | cas_no: 52171-92-3 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5,11- Dimethylchrysene | cas_no: 14207-78-4 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 1,4- Dimethylphenanthrene | cas_no: 22349-59-3 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 4,10- Dimethylphenanthrene | cas_no: 23189-63-1 | provisional_benzo_a_pyrene_rpf1: 0.001",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5- Ethylchrysene | cas_no: 54986-62-8 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Fluoranthene | cas_no: 206-44-0 | provisional_benzo_a_pyrene_rpf1: 0.001",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 7- Methylbenzo[a]anthracene | cas_no: 2541-69-7 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 8- Methylbenzo[a]anthracene | cas_no: 2381-31-9 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 9- Methylbenzo[a]anthracene | cas_no: 2381-16-0 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 12- Methylbenzo[a]anthracene | cas_no: 2422-79-9 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 11- Methylbenzo[b]fluorene | cas_no: 77969-74-5 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 1- Methylbenzo[a]pyrene | cas_no: 40568-90-9 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 2- Methylbenzo[a]pyrene | cas_no: 16757-82-7 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 3- Methylbenzo[a]pyrene | cas_no: 16757-81-6 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 4- Methylbenzo[a]pyrene | cas_no: 16757-83-8 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5- Methylbenzo[a]pyrene | cas_no: 31647-36-6 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 6- Methylbenzo[a]pyrene | cas_no: 2381-39-7 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 11- Methylbenzo[a]pyrene | cas_no: 16757-80-5 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 12- Methylbenzo[a]pyrene | cas_no: 4514-19-6 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 5- Methylchrysene | cas_no: 3697-24-3 | provisional_benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 6- Methylchrysene | cas_no: 1705-85-7 | provisional_benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 2- Methylfluoranthene | cas_no: 33543-31-6 | provisional_benzo_a_pyrene_rpf1: 0.001",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Phenanthrene | cas_no: 85-01-8 | provisional_benzo_a_pyrene_rpf1: 0.001",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 2,9,10- Trimethylanthracene | cas_no: 63018-94-0 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: 2,3,9,10- Tetramethylanthracene | cas_no: 66552-77-0 | provisional_benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table19",
+            "page": 19,
+            "columns": [
+                "pah",
+                "cas_no",
+                "provisional_benzo_a_pyrene_rpf1"
+            ]
+        }
+    }
+]

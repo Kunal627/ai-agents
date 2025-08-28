@@ -1,0 +1,110 @@
+[
+    {
+        "text": "pah: Benzo[a]pyrene | cas_no: 50-32-8 | benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[a]anthracene | cas_no: 56-55-3 | benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[b]fluoranthene | cas_no: 205-99-2 | benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[g,h,i]perylene | cas_no: 191-24-2 | benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[j]fluoranthene | cas_no: 205-82-3 | benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Benzo[k]fluoranthene | cas_no: 207-08-9 | benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Chrysene | cas_no: 218-01-9 | benzo_a_pyrene_rpf1: 0.01",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Dibenzo[a,h]anthracene | cas_no: 53-70-3 | benzo_a_pyrene_rpf1: 1.0",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    },
+    {
+        "text": "pah: Indeno[1,2,3-cd]pyrene | cas_no: 193-39-5 | benzo_a_pyrene_rpf1: 0.1",
+        "metadata": {
+            "table_name": "output_table18",
+            "page": 18,
+            "columns": [
+                "pah",
+                "cas_no",
+                "benzo_a_pyrene_rpf1"
+            ]
+        }
+    }
+]

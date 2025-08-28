@@ -1,0 +1,74 @@
+[
+    {
+        "text": "substance: Selenium | type_of_trv: UL (HC)\n__________\n0 to <6 mo\n6 mo to <5 yrs\n5 to <12 yrs\n12 to <20 yrs\n\u226520 yrs | trv_value: mg/kg -day\nBW\n__________\n5.5E-03\n6.0E-03\n6.3E-03\n6.2E-03\n5.7E-03 | study_details: Yang and Zhou, 1994 (adults) | threshold_non_threshold_endpoint: NOAEL =\n800 \u00b5g/day\n(mean selenium intake\nupon re-examination)\n(adults) | trv_derivation_method: UL (IOM) =\nNOAEL/UF\nIOM adult ULs were\nadjusted to account for\ndifferences in HC\u2019s adult\nage group (HC, 2010) | critical_effect_s: Hair and nail\nbrittleness and\nloss (signs and\nsymptoms of\nchronic selenosis) | carcinogenicity_classification: CEPA:\nsee 2017\nCMP assessment\n(ECCC and HC,\n2017)\nIARC: Group 3\nnot classifiable as to\nhuman\ncarcinogenicity\n(IARC, 1987)\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1991) | source: IOM, 2000\n(based on\nYang and\nZhou, 1994;\nShearer and\nHadjimarkos,\n1975)",
+        "metadata": {
+            "table_name": "output_table48",
+            "page": 48,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Selenium | study_details: Study Type: epidemiological\nSpecies: humans (adults)\nMode of Exposure: dietary intake\nExposure Concentrations: initial\nestimated range of intake: 913 to\n1907 \u00b5g/day; range of intake during\nre-examination (8 years later): 654 to\n952 \u00b5g/day\nDuration: chronic\nUncertainty Factors: 2 (to protect\nsensitive individuals)",
+        "metadata": {
+            "table_name": "output_table48",
+            "page": 48,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Selenium | study_details: Shearer and Hadjimarkos, 1975\n(infants, children, and adolescents) | threshold_non_threshold_endpoint: NOAEL = 60 \u00b5g/L\n(infants) | trv_derivation_method: NOAEL adjusted for\nestimated average human\nmilk intake of 0.78 L/day\nNOAEL = 47 \u00b5g/day\nadj\n(rounded to 45 \u00b5g/day)\nInfant UL (IOM) =\nNOAEL /UF\nadj\nIOM derived ULs for older\ninfants, children, and\nadolescents based on\nthe infant UL and relative\nbody weight\nTRVs were calculated in\nmg/kg -day for age groups\nBW\nin HC (2010) guidance | critical_effect_s: No evidence of\nselenium toxicity",
+        "metadata": {
+            "table_name": "output_table48",
+            "page": 48,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Selenium | study_details: Study Type: epidemiological\nSpecies: humans (infants, 0-6 months\nof age)\nMode of Exposure: diet (human milk)\nExposure Concentrations: selenium\nconcentration of human milk of\nunsupplemented women ranged\nfrom 7 to 60 \u00b5g/L (average of 18 \u00b5g/L)\nDuration: N/A (stage of lactation\nranged from 17 to 869 days)\nUncertainty Factors: 1 (because\nof a lack of evidence that maternal\nintake associated with a human milk\nlevel of 60 \u00b5g selenium/L results\nin infant or maternal toxicity)",
+        "metadata": {
+            "table_name": "output_table48",
+            "page": 48,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

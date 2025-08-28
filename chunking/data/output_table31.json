@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Chromium,\ntrivalent | type_of_trv: Oral TDI | trv_value: 1.5E+00\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female BD rats\nMode of Administration: diet\nExposure Regime: chromic oxide (CrO)\n2 3\nin diet: 0% (control), 1%, 2%, or 5%,\n5 days/week, for a total of 600 feedings;\naverage total amounts of ingested CrO\n2 3\nwere 360, 720, and 1800 g/kg for\nBW\neach treatment group, respectively\nDuration: 840 days\nUncertainty Factors: 1000 (10 for\nintraspecies variability and 10 for\ninterspecies variability, and 10 for\ndatabase deficiencies) | threshold_non_threshold_endpoint: NOAEL = 5% CrO\n2 3\nin diet, corresponding\nto an average total\ndose of 1,800 g/kg\nBW\n(over 600 meals) | trv_derivation_method: NOAEL was\nconverted to a NOAEL\nfor Cr(III) using a factor of\n0.6849 g Cr(III) / g CrO\n2 3\nand\nadjusted for\ncontinuous exposure\nNOAEL Cr (III) =\nadj\n1468 mg Cr(III)/kg -day\nBW\nTDI =\nNOAEL Cr(III) / (UF)\nadj | critical_effect_s: No effects\nobserved at\nany dose level | carcinogenicity_classification: CEPA: Group VI\nunclassifiable with\nrespect to\ncarcinogenicity\nto humans\n(EC and HC, 1994c)\nIARC: Group 3\nnot classifiable\nwith respect to\ncarcinogenicity\nto humans\n(IARC, 1990)\nUS EPA IRIS:\nGroup D\nnot classifiable\nwith respect\nto human\ncarcinogenicity\n(US EPA, 1998c) | source: US EPA, 1998c\n(based on\nIvankovic and\nPreussmann,\n1975)",
+        "metadata": {
+            "table_name": "output_table31",
+            "page": 31,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium,\ntrivalent | type_of_trv: Inhalation TC | trv_value: 1.0E-04\nmg/m3\nintermediate\nduration\nminimal risk\nlevel for\nsoluble Cr(III)\nparticulates | study_details: Study Type: subchronic\nSpecies: male and female CDF rats\nMode of Administration: inhalation\n(nose only)\nExposure Regime: nose-only inhalation\nexposure to chromic oxide (CrO) or\n2 3\nbasic chromium sulfate (CrHOS) dusts,\n5\nat measured concentrations of 0, 3, 10,\nor 30 mg chromium(III)/m3 for 6 hours/\nday, 5 days/week\nDuration: 13 weeks\nUncertainty Factors: 300 (10 for use of\na LOAEL, 10 for intraspecies variability,\nand 3 for interspecies variability) | threshold_non_threshold_endpoint: LOAEL =\n3 mg Cr (III)/m3 | trv_derivation_method: LOAEL adjusted for\nintermittent exposure\n(0.54 mg Cr (III)/m3) and\nconverted to a LOAEL\nHEC\nusing a regional deposited\ndose ratio for the\nrespiratory tract\nLOAEL =\nHEC\n0.04 mg/m3\nInhalation TC =\nLOAEL Cr(III) / UF\nHEC | critical_effect_s: Respiratory\ntract toxicity | source: ATSDR, 2012\n(based on\nDerelanko et al.,\n1999)",
+        "metadata": {
+            "table_name": "output_table31",
+            "page": 31,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Polychlorinated\nbiphenyls (PCBs)\n(non dioxin-like\ni.e., non-coplanar) | type_of_trv: Oral TDI\n(provisional) | trv_value: 1.0E-05\nmg/kg -day\nBW\n(based on an\nAroclor\n1254\nmixture) | study_details: Study Type: chronic\nSpecies: female rhesus monkeys\nMode of Administration: oral\n(ingestion of capsules containing\nAroclor in a 1:1 glycerol/corn\n1254\noil mixture)\nExposure Regime: 0, 0.005, 0.02, 0.04,\nor 0.08 mg/kg -day\nBW\nDuration: 23 months and 55 months\n(same group)\nUncertainty Factors: 300 (10 for\nintraspecies variability, 3 for interspecies\nvariability, and 10 to extrapolate from\na LOAEL to a NOAEL) | threshold_non_threshold_endpoint: LOAEL for Aroclor =\n1254\n0.005 mg/kg -day\nBW | trv_derivation_method: As per Baars et al., 2001,\nTDI for\nmixture of non dioxin-like\n(i.e., non-coplanar PCBs)\n=\n50% of the TDI of Aroclor\n1254\n(based on chemical analysis\nof seven \u201dindicator PCBs\u201d\n[PCB # 28, 52, 101, 118,\n138, 153, and 180])\nLOAEL Aroclor /UF\n1254\n= 1.7E-05 mg/kg -day\nBW\n(rounded to\n2.0E-05 mg/kg -day)\nBW\nTDI Aroclor =\n1254\n2.0E-05 mg/kg -day \u00d7\nBW\n50% =\n1.0E-05 mg/kg -day\nBW | critical_effect_s: Immunotoxicity\n(decreased\nantibody response) | carcinogenicity_classification: CEPA:\nnot classified\nIARC:\nnot classified\nUS EPA IRIS:\nnot classified | source: WHO, 2003\n(based on\nTryphonas et al.,\n1989, 1991),\nand\nBaars et al., 2001",
+        "metadata": {
+            "table_name": "output_table46",
+            "page": 46,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Polychlorinated\nbiphenyls (PCBs)2\n(dioxin-like,\ni.e. coplanar) | type_of_trv: Oral TDI | trv_value: 2.3E-09 TEQ\nmg/kg -day\nBW | study_details: See PCDDs/PCDFs for study details.\nDioxin-like (i.e., coplanar) PCBs should be evaluated with PCDDs/PCDFs, using appropriate TEFs (see Table 4). | carcinogenicity_classification: CEPA:\nnot classified\nIARC: Group 1;\ndioxin-like\n(i.e., coplanar)\nPCBs classified\nas carcinogenic\nto humans\n(IARC, 2016)\nUS EPA IRIS:\nGroup B2\nprobably\ncarcinogenic\nto humans\n(US EPA, 1996) | source: See PCDDs/\nPCDFs for source\ninformation.",
+        "metadata": {
+            "table_name": "output_table46",
+            "page": 46,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

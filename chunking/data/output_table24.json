@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Arsenic | type_of_trv: Oral SF | trv_value: 1.8E+00\n(mg/kg -day)\u20131\nBW | study_details: Study Type: epidemiological\nSpecies: humans\nMode of Exposure: oral (drinking water)\nExposure Concentrations: concentration\nof arsenic in drinking water varied from\nless than 10 to greater than 600 \u00b5g/L\n(groundwater arsenic concentrations)\nDuration: chronic\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Range of unit risks\nassociated with\ningesting 1 \u00b5g/L of\narsenic in drinking\nwater:\n3.06E-06 to\n3.85E-05 (\u00b5g/L)\u20131\n(based on a 1%\nincrease in risk) | trv_derivation_method: TRV based on upper end\nof range of unit risks (URs)\nin drinking water:\n3.85E-05 (\u00b5g/L)-1\nConversion to oral SF in\n(mg/kg -day)-1:\nBW\nOral SF =\nUR \u00d7 BW \u00d7 CF / IR\nadult W\n[where BW = 70.7 kg,\nadult\nIR = 1.5 L/day, and\nW\nCF (conversion factor) =\n1000 \u00b5g/mg] | critical_effect_s: Cancer\n(bladder, lung,\nliver) | carcinogenicity_classification: CEPA: Group I\ncarcinogenic\nto humans\n(EC and HC, 1993a)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012a)\nUS EPA IRIS:\nGroup A\ncarcinogenic\nto humans\n(US EPA, 1995a) | source: HC, 2006\n(based on\nMorales et al.,\n2000;\nChen et al., 1985;\nWu et al., 1989)",
+        "metadata": {
+            "table_name": "output_table24",
+            "page": 24,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Arsenic | type_of_trv: Inhalation UR | trv_value: 6.4E+00\n(mg/m3)\u2013\u00b9 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: humans\nMode of Exposure: inhalation\nExposure Concentrations: N/A\nDuration: chronic\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: TC (5% tumourigenic\n05\nconcentration) =\n7.83 \u00b5g/m\u00b3 | trv_derivation_method: Relative risk model\nInhalation UR =\n0.05/TC\n05\nwhere 0.05 = 5% extra\ncancer risk | critical_effect_s: Cancer\n(lung) | source: EC and HC, 1993a\n(based on\nHiggins et al.,\n1986)",
+        "metadata": {
+            "table_name": "output_table24",
+            "page": 24,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Barium | type_of_trv: Oral TDI | trv_value: 2.0E-01\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female B6C3F1 mice\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 500, 1250,\nand 2500 ppm barium chloride\ndihydrate in drinking water (daily\ndoses estimated to be 0, 30, 75, and\n160 mg barium/kg -day for males, and\nBW\n0, 40, 90, and 200 mg barium/kg -day\nBW\nfor females)\nDuration: 2 years\nUncertainty Factors: 300\n(10 for intraspecies variability, 10 for\ninterspecies variability, and 3 for\ndatabase deficiencies) | threshold_non_threshold_endpoint: BMDL =\n05\n63 mg/kg -day\nBW | trv_derivation_method: TDI = BMDL / UF\n05 | critical_effect_s: Nephrotoxicity\n(renal lesions) | carcinogenicity_classification: CEPA: Group VA\ninadequate data\nfor evaluation\n(HC, 1990)\nIARC:\nnot classified\nUS EPA IRIS:\ninhalation route -\ncarcinogenic\npotential cannot\nbe determined;\noral route - not\nlikely to be\ncarcinogenic\nto humans\n(US EPA, 1998a) | source: US EPA, 2005a\n(based on\nNTP, 1994)",
+        "metadata": {
+            "table_name": "output_table24",
+            "page": 24,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

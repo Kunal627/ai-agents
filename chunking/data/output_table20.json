@@ -1,0 +1,398 @@
+[
+    {
+        "text": "substance: Polychlorinated Dibenzo-p-dioxins",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 2,3,7,8- Tetrachlorodibenzo-p-dioxin (TCDD) | cas_no: 1746-01-6 | tef1: 1.0",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,7,8- Pentachlorodibenzo-p-dioxin (PeCDD) | cas_no: 40321-76-4 | tef1: 1.0",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,4,7,8- Hexachlorodibenzo-p-dioxin (HxCDD) | cas_no: 39227-28-6 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,6,7,8- Hexachlorodibenzo-p-dioxin (HxCDD) | cas_no: 57653-85-7 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,7,8,9- Hexachlorodibenzo-p-dioxin (HxCDD) | cas_no: 19408-74-3 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,4,6,7,8- Heptachlorodibenzo-p-dioxin (HpCDD) | cas_no: 35822-46-9 | tef1: 0.01",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Octachlorodibenzo-p-dioxin (OCDD) | cas_no: 3268-87-9 | tef1: 0.0003",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Polychlorinated Dibenzofurans",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 2,3,7,8- Tetrachlorodibenzofuran (TCDF) | cas_no: 51207-31-9 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,7,8- Pentachlorodibenzofuran (PeCDF) | cas_no: 57117-41-6 | tef1: 0.03",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 2,3,4,7,8- Pentachlorodibenzofuran (PeCDF) | cas_no: 57117-31-4 | tef1: 0.3",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,4,7,8- Hexachlorodibenzofuran (HxCDF) | cas_no: 70648-26-9 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,6,7,8- Hexachlorodibenzofuran (HxCDF) | cas_no: 57117-44-9 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,7,8,9- Hexachlorodibenzofuran (HxCDF) | cas_no: 72918-21-9 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 2,3,4,6,7,8- Hexachlorodibenzofuran (HxCDF) | cas_no: 60851-34-5 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,4,6,7,8- Heptachlorodibenzofuran (HpCDF) | cas_no: 67562-39-4 | tef1: 0.01",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: 1,2,3,4,7,8,9- Heptachlorodibenzofuran (HpCDF) | cas_no: 55673-89-7 | tef1: 0.01",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Octachlorodibenzofuran (OCDF) | cas_no: 39001-02-0 | tef1: 0.0003",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Non-ortho Substituted PCB Congeners",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 77 | cas_no: 32598-13-3 | tef1: 0.0001",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 81 | cas_no: 70362-50-4 | tef1: 0.0003",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 126 | cas_no: 57465-28-8 | tef1: 0.1",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 169 | cas_no: 32774-16-6 | tef1: 0.03",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mono-ortho Substituted PCB Congeners",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 105 | cas_no: 32598-14-4 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 114 | cas_no: 74472-37-0 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 118 | cas_no: 31508-00-6 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 123 | cas_no: 65510-44-3 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 156 | cas_no: 38380-08-4 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 157 | cas_no: 69782-90-7 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 167 | cas_no: 52663-72-6 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCB 189 | cas_no: 39635-31-9 | tef1: 3e-05",
+        "metadata": {
+            "table_name": "output_table20",
+            "page": 20,
+            "columns": [
+                "substance",
+                "cas_no",
+                "tef1"
+            ]
+        }
+    }
+]

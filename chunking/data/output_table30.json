@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Chlorobenzene | type_of_trv: Oral TDI | trv_value: 4.3E-01\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: F344/N rats and B6C3F1 mice\nMode of Administration: gavage,\ncorn oil\nExposure Regime: 0, 60, or\n120 mg/kg -day (male and female\nBW\nrats, and female mice); 0, 30, or\n60 mg/kg -day (male mice), 5 days\nBW\nper week, as monochlorobenzene\nDuration: 103 weeks\nUncertainty Factors: 100 (10 for\nintraspecies variability and 10 for\ninterspecies variability) | threshold_non_threshold_endpoint: NOAEL =\n60 mg/kg -day\nBW | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure\nNOAEL =\nadj\n43 mg/kg -day\nBW\nTDI = NOAEL /UF\nadj | critical_effect_s: Hepatotoxicity\n(neoplastic nodules\nin the liver) | carcinogenicity_classification: CEPA: Group III\npossibly\ncarcinogenic\nto humans\n(EC and HC, 1992a)\nIARC:\nnot classified\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1990a) | source: HC, 1996\n(based on\nNTP, 1985a;\nKluwe et al., 1985)",
+        "metadata": {
+            "table_name": "output_table30",
+            "page": 30,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chlorobenzene | type_of_trv: Inhalation TC\n(provisional) | trv_value: 1.0E-02\nmg/m\u00b3 | study_details: Study Type: subchronic\nSpecies: Sprague-Dawley male rats,\nand male rabbits\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 75, or 250 ppm\n(0, 341, or 1138 mg/m3) chlorobenzene\nvapours, 7 hours/day, 5 days per week,\nfor up to 120 exposure days\nDuration: 24 weeks\nUncertainty Factors: 5000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, 10 for a less than chronic\nstudy, and 5 for use of a LOAEL\nrather than NOAEL) | threshold_non_threshold_endpoint: LOAEL =\n341 mg/m\u00b3 | trv_derivation_method: LOAEL adjusted for\ncontinuous exposure and\ndifferences in volume\ninhaled and body weight\nbetween rats and the\nhuman child\nLOAEL =\nHEC\n50.2 mg/m\u00b3\nTC = LOAEL /UF\nHEC | critical_effect_s: Nephrotoxicity\n(increased\nkidney weight,\nkidney lesions)\nand\nEndocrine\nsystem toxicity\n(lesions in the\nadrenal cortex)\nand\nChanges in red\ncell parameters | source: HC, 1996\nand\nEC and HC, 1992a\n(based on Dilley,\n1977)",
+        "metadata": {
+            "table_name": "output_table30",
+            "page": 30,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

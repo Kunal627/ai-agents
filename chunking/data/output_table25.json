@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Benzene | type_of_trv: Oral SF | trv_value: 8.3E-02\n(mg/kg -day)\u20131\nBW | study_details: Study Type: chronic\nSpecies: rats and mice\nMode of Administration: gavage,\ncorn oil\nExposure Regime: 0, 50, 100, and\n200 mg/kg -day (male rats); 0, 25,\nBW\n50, and 100 mg/kg -day (female rats,\nBW\nmale and female mice), 5 days/week\nDuration: 103 weeks\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Range of unit risks\nassociated with\ningesting 1 \u00b5g/L of\nbenzene in water:\n2.03E-06 to\n4.17E-06 (\u00b5g/L)-1 | trv_derivation_method: Linearized multistage model\nand allometric scaling\nTRV based on upper bound\nestimate of unit risks (URs)\nin drinking water:\n4.17E-06 (\u00b5g/L)-1\nConversion to oral SF in\n(mg/kg -day)-1:\nBW\nOral SF =\nUR \u00d7 BW \u00d7 CF / IR\nadult W\n[where BW = 70.7 kg,\nadult\nIR = 1.5 L/day, and\nW\nCF = 1000 \u00b5g/mg] | critical_effect_s: Cancer\n(malignant\nlymphomas)\nand\nBone marrow\nhematopoietic\nhyperplasia | carcinogenicity_classification: CEPA: Group I\ncarcinogenic\nto humans\n(EC and HC, 1993b)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012b)\nUS EPA IRIS:\nGroup A\ncarcinogenic\nto humans\n(US EPA, 2000a) | source: HC, 2009\n(based on\nNTP, 1986a)",
+        "metadata": {
+            "table_name": "output_table25",
+            "page": 25,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzene | type_of_trv: Inhalation UR | trv_value: 1.6E-02\n(mg/m3)\u2013\u00b9 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: human\nMode of Exposure: inhalation\nExposure Concentrations: N/A\nDuration: chronic\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: Unit lifetime leukemia\nrisk to the general\npopulation, derived\nfrom these studies:\nOhio Pliofilm cohort:\n0.044 (ppm)\u20131\n[0.014 (mg/m3)\u20131]\nChinese cohorts:\n0.056 (ppm)\u20131\n[0.018 (mg/m3)\u20131] | trv_derivation_method: Poisson regression and\nlinear relative risk models\n+\nInhalation UR for lifetime\ninhalation exposures of\nthe general population\n(based on the geometric\nmean of upper bound\nestimates of leukemia risk\nfrom these studies)\nInhalation UR =\n[0.044 (ppm)-1 \u00d7\n0.056 (ppm)-1] 1/2\n= 0.050 (ppm)\u20131\n[0.016 (mg/m3)\u2013\u00b9] | critical_effect_s: Cancer\n(leukemia) | source: HC, 2013a\nand\nOEHHA, 2001\n(based on\nRinsky et al.,\n1987;\nPaxton et al.,\n1994;\nHayes et al., 1997)",
+        "metadata": {
+            "table_name": "output_table25",
+            "page": 25,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzo[a]pyrene\n(BaP) | type_of_trv: Oral TDI | trv_value: 6.67E-05\nmg/kg -day\nBW | study_details: Study Type: developmental\nSpecies: neonate Sprague-Dawley\nrat pups (10 males and 10 females)\nMode of Administration: gavage\nExposure Regime: 0 (peanut oil only),\n0.02, 0.2, or 2 mg/kg administered\nBW\ndaily from postnatal day (PND) 5 until\nPND 11\nDuration: until PND 71\nUncertainty Factors: 300 (10 for\nintraspecies variability, 10 for interspecies\nvariability, and 3 for database defciiencies) | threshold_non_threshold_endpoint: NOAEL =\n0.020 mg/kg -day\nBW | trv_derivation_method: TDI = NOAEL/UF | critical_effect_s: Neuro-\ndevelopmental\ntoxicity | carcinogenicity_classification: CEPA: Group II\nprobably\ncarcinogenic\nto humans\n(EC and HC, 1994a)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012b)\nUS EPA carcinogenic\nto humans\n(US EPA, 2017) | source: HC, 2016a\n(based on\nChen et al.,\n2012)",
+        "metadata": {
+            "table_name": "output_table25",
+            "page": 25,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

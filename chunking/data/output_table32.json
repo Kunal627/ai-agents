@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Chromium,\nhexavalent | type_of_trv: Oral TDI | trv_value: 2.2E-03\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female B6C3F1 mice\nMode of Administration: oral\n(drinking water)\nExposure Regime: Male mice received 0,\n14.3, 28.6, 85.7, or 257.4 mg sodium\ndichromate dehydrate (SSD)/L (equivalent\nto 0, 5, 10, 30, and 90 mg Cr (VI)/L or 0,\n0.4, 0.9, 2.4 and 5.9 mg Cr (VI)/kg -day\nBW\nrespectively). Female mice received 0,\n14.3, 57.3, 172, or 516 mg sodium\ndichromate dihydrate/L (equivalent to 0,\n5, 20, 60, and 180 mg Cr (VI)/L or 0, 0.4,\n1.4, 3.1, and 8.7 mg Cr (VI)/kg -day).\nBW\nDuration: 2 years\nUncertainty Factors: 25 (10 for\nintraspecies variability and 2.5 for\npharmacodynamic interspecies\ndifferences) | threshold_non_threshold_endpoint: BMDL =\n01\n0.67 mg Cr(VI)/\nkg -day\nBW | trv_derivation_method: PBPK model used to\nconvert mouse BMDL into\n01\na human equivalent dose of\n0.054 mg Cr (VI)/ kg -day\nBW\nTDI =\nhuman equivalent dose/UF | critical_effect_s: Gastrointestinal\ntoxicity\n(diffuse epithelial\nhyperplasia of the\nsmall intestine) | carcinogenicity_classification: CEPA: Group I\ncarcinogenic\nto humans\n(EC and HC, 1994c)\nIARC: Group 1\ncarcinogenic\nto humans\n(IARC, 2012a)\nUS EPA IRIS:\nGroup A\ninhalation route:\ncarcinogenic\nto humans\n(US EPA, 1998d);\nGroup D\noral route:\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1998d) | source: HC, 2016b\n(based on\nNTP, 2008\nStout et al., 2009;\nThompson et al.,\n2014; Summit\nToxicology, 2014)",
+        "metadata": {
+            "table_name": "output_table32",
+            "page": 32,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium,\nhexavalent | type_of_trv: Inhalation TC | trv_value: 1.0E-04\nmg/m3 | study_details: Study Type: subchronic\nSpecies: male Wistar rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: sodium\ndichromate (chromium particulates),\n0.05-0.4 mg Cr (VI)/m3 for 22 hours/day,\n7 days/week\nDuration: 30 to 90 days\nUncertainty Factors: 300 (10 for use\nof a subchronic study, 10 for intraspecies\nvariability, and 3 for pharmacodynamic\ninterspecies differences) | threshold_non_threshold_endpoint: BMC =\n10\n0.034 mg Cr (VI)/m3 | trv_derivation_method: BMC selected as POD\n10\nand adjusted for\ncontinuous exposure\n+\nAnimal to human\nconversion based on\nregional deposited dose\nratio for particulates\nTC for Cr (VI) =\nBMC /UF\n10 | critical_effect_s: Respiratory\ntract toxicity\n(increased albumin\nand lactate\ndehydrogenase in\nbronchioalveolar\nlavage fluid,\nreflecting initial\ninjury and chronic\ninflammation) | source: US EPA, 1998d\n(based on\nGlaser et al., 1990\nand Malsch et al.,\n1994)",
+        "metadata": {
+            "table_name": "output_table32",
+            "page": 32,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium,\nhexavalent | type_of_trv: Inhalation UR | trv_value: 7.6E+01\n(mg/m3)\u20131 | study_details: Study Type: epidemiological\n(occupational)\nSpecies: humans (adult men)\nMode of Exposure: inhalation\nExposure Concentrations: N/A\nDuration: at least 1 year, up to 8 years\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: TC (5% tumourigenic\n05\nconcentration) =\n0.66 \u00b5g/m3 | trv_derivation_method: Inhalation UR =\n0.05/TC\n05\nwhere 0.05 = 5% extra\ncancer risk | critical_effect_s: Cancer\n(lung) | source: HC, 1996\n(based on\nMancuso, 1975)",
+        "metadata": {
+            "table_name": "output_table32",
+            "page": 32,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

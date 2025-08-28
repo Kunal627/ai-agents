@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Carbon\ntetrachloride | type_of_trv: Oral TDI | trv_value: 7.1E-04\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: male Sprague-Dawley rats\nMode of Administration: gavage\n(corn oil)\nExposure Regime: 0, 1, 10, or\n33 mg/kg -day, administered as\nBW\na single oral bolus, 5 days/week\nDuration: 12 weeks\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, and 10 for major database\ndeficiencies including lack of adequate\nchronic studies and evidence regarding\ncarcinogenic mode of action in animals) | threshold_non_threshold_endpoint: NOAEL =\n1 mg/kg -day\nBW | trv_derivation_method: NOAEL adjusted\nfor weekly continuous\nexposure\nNOAEL =\nadj\n0.71 mg/kg -day\nBW\nTDI = NOAEL /UF\nadj | critical_effect_s: Hepatotoxicity\n(increased serum\nsorbitol\ndehydrogenase\nlevels and mild\ncentrilobular\nvacuolization\nin the liver) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 1999a)\nUS EPA IRIS:\nlikely to be\ncarcinogenic\nto humans\n(US EPA, 2010) | source: HC, 2010\n(based on\nBruckner et al.,\n1986)",
+        "metadata": {
+            "table_name": "output_table29",
+            "page": 29,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Carbon\ntetrachloride | type_of_trv: Inhalation UR | trv_value: 6.0E-03\n(mg/m\u00b3)\u2013\u00b9\n[US EPA\n(2010): do\nnot use with\nexposures\n>18 mg/m3] | study_details: Study Type: chronic\nSpecies: male BDF1 mice\nMode of Administration: inhalation\nDosing Regime: 0, 5, 25, or 125 ppm\ncarbon tetrachloride vapour (0, 31, 157,\nor 786 mg/m3), 6 hours/day, 5 days/week\nDuration: 104 weeks\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: LEC = 18 mg/m3\n10\n(lowest effective\nconcentration) | trv_derivation_method: Internal mouse doses\ndetermined using PBPK\nmodel\n+\nBMD modelling using a\nlog-probit model and an\nextra 10% cancer risk\n+\nLinear extrapolation from\nthe POD (LEC ) converted\n10\nto a human equivalent\nconcentration using a\nhuman PBPK model\nInhalation UR =\n0.1 / LEC\n10\n[UR rounded to\n6.0E-03 (mg/m3)-1] | critical_effect_s: Cancer\n(adrenal gland\n[pheochromo-\ncytomas]) | source: HC, 2018a\n(based on US EPA,\n2010 [derived\nfrom Nagano\net al., 2007 and\nJBRC, 1998])",
+        "metadata": {
+            "table_name": "output_table29",
+            "page": 29,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

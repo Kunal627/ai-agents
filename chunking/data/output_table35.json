@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Dichloroethylene,\n1,1 | type_of_trv: Oral TDI\n(referred to as\nan \u2018acceptable\ndaily intake\u2019\nin HC, 1994) | trv_value: 3.0E-03\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: Sprague-Dawley rats\nMode of Administration: oral\n(drinking water)\nExposure Regime: time weighted\naverage daily doses: 0, 7, 10, and\n20 mg/kg -day (males); 0, 9, 14, and\nBW\n30 mg/kg -day (females)\nBW\nDuration: 2 years\nUncertainty Factors: 3000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, 10 for use of a LOAEL, and\n3 for limited evidence of carcinogenicity) | threshold_non_threshold_endpoint: LOAEL =\n9 mg/kg -day\nBW | trv_derivation_method: TDI = LOAEL/UF | critical_effect_s: Hepatoxicity\n(hepatocellular\nswelling with\nmid-zonal fatty\nchanges) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 1999a)\nUS EPA IRIS:\ninhalation route:\nsuggestive\nevidence of\ncarcinogenicity,\nbut not sufficient\nto assess human\ncarcinogenic\npotential;\noral route:\ninadequate data\nfor assessment of\nhuman carcinogenic\npotential\n(US EPA, 2002) | source: HC, 1994\n(based on\nQuast et al.,\n1983)",
+        "metadata": {
+            "table_name": "output_table35",
+            "page": 35,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloromethane\n(methylene\nchloride) | type_of_trv: Oral TDI | trv_value: 1.4E-02\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female F344 rats\nMode of Administration: oral\n(drinking water)\nExposure Regime: 0, 5, 50, 125, and\n250 mg/kg -day; additional group\nBW\nat 250 mg/kg -day\nBW\nDuration: 104 weeks; additional group\nwas exposed for 78 weeks + 26 week\nrecovery period\nUncertainty Factors: 300 (10 for\nintraspecies variability, 10 for\ninterspecies variability, and 3 for\ndatabase deficiencies) | threshold_non_threshold_endpoint: BMDL =\n10\n4.2 mg/kg -day\nBW | trv_derivation_method: TDI = BMDL /UF\n10 | critical_effect_s: Hepatotoxicity\n(increased\nincidences of\nfoci and areas of\ncellular alterations\nin liver) | carcinogenicity_classification: CEPA: Group II\nprobably\ncarcinogenic\nto humans\n(EC and HC, 1993e)\nIARC: Group 2A\nprobably\ncarcinogenic\nto humans\n(IARC, 2017)\nUS EPA IRIS:\ncarcinogenic\nby a mutagenic\nmode of action\n(US EPA, 2011a) | source: HC, 2011a\n(based on\nSerota et al.,\n1986a)",
+        "metadata": {
+            "table_name": "output_table35",
+            "page": 35,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

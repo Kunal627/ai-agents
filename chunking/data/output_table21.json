@@ -1,0 +1,376 @@
+[
+    {
+        "text": "substance: Arsenic | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Barium | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzene2 | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzo[a]pyrene (B[a]P)3 | raf_derm: 0.148",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Beryllium | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Cadmium | raf_derm: 0.01",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Carbon tetrachloride | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chlorobenzene | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium, total | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium, hexavalent | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Copper | raf_derm: 0.06",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene, 1,2- (o-DCB) | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene, 1,4- (p-DCB) | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloroethane, 1,2- | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloroethylene, 1,1- | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloromethane (methylene chloride) | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Ethylbenzene | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: n-Hexane4 | raf_derm: 1.0",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Lead5 | raf_derm: 0.006",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Mercury6 | raf_derm: 1.0",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Methylmercury | raf_derm: 0.06",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Nickel7 | raf_derm: 0.09",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: PAHs3 | raf_derm: 0.148",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCBs | raf_derm: 0.14",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: PCDDs/PCDFs | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Selenium | raf_derm: 0.01",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Tetrachloroethylene | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Toluene | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Trichloroethylene | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Uranium | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Vinyl chloride | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Xylenes, mixed isomers | raf_derm: 0.03",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Zinc | raf_derm: 0.1",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    },
+    {
+        "text": "substance: Zinc",
+        "metadata": {
+            "table_name": "output_table21",
+            "page": 21,
+            "columns": [
+                "substance",
+                "raf_derm"
+            ]
+        }
+    }
+]

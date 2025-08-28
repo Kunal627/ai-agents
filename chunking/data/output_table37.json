@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Ethylbenzene | type_of_trv: Oral TDI | trv_value: 2.2E-02\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: B6C3F1 mice\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 75, 250, or\n750 ppm (0, 330, 1100, or 3300 mg/m3)\nfor 6 hours/day, 5 days/week\nDuration: 103 weeks\nUncertainty Factors: 25 (10 for\nintraspecies variability and 2.5 for\ninterspecies variability) | threshold_non_threshold_endpoint: NOAEL = 330 mg/m3\n(75 ppm) | trv_derivation_method: Estimated mouse internal\nliver concentration\ncorresponding to NOAEL =\n0.08 mg/L\n+\nPBPK model to obtain\nexternal oral dose that\nis relevant in humans\n= 0.54 mg/kg -day\nBW\nTDI = human external\noral dose/UF | critical_effect_s: Pituitary gland\ntoxicity\n(hyperplasia)\nand\nHepatotoxicity\n(cellular alterations\nof the liver) | carcinogenicity_classification: CEPA: see 2016\nCMP assessment\n(ECCC and\nHC, 2016)\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 2000)\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1998e) | source: HC, 2014b\n(based on\nNTP 1999)",
+        "metadata": {
+            "table_name": "output_table37",
+            "page": 37,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Ethylbenzene | type_of_trv: Inhalation TC | trv_value: 2.0E+00\nmg/m3 | study_details: Study Type: chronic\nSpecies: male and female F344/N rats\nand B6C3F1 mice\nMode of Administration: inhalation\nExposure Regime: 0, 75, 250, or\n750 ppm (0, 330, 1100, or 3300 mg/m3),\n6 hours/day, 5 days/week\nDuration: 104 weeks (rats);\n103 weeks (mice)\nUncertainty Factors: 30 (10 for\nintraspecies variability and 3 for\ninterspecies variability) | threshold_non_threshold_endpoint: NOAEL = 75 ppm\n(330 mg/m3) | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure\nNOAEL = 57 mg/m3\nadj\nTC = NOAEL /UF\nadj | critical_effect_s: Pituitary gland\ntoxicity\n(hyperplasia)\nand\nHepatotoxicity\n(liver cellular\nalterations and\nnecrosis) | source: HC, 2018a\n(based on\nOEHHA, 2000\n[derived from\nNTP, 1999 and\nChan et al., 1998])",
+        "metadata": {
+            "table_name": "output_table37",
+            "page": 37,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

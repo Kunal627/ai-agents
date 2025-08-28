@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Methylmercury | type_of_trv: Oral TDI\n(provisional) | trv_value: 2.0E-04\nmg/kg -day\nBW\n(women of\nchild-bearing\nage, infants,\nand children\n< 12 years) | study_details: Study Type: epidemiological\nSpecies: humans (children)\nMode of Exposure: diet\nEstimated Exposure: daily intake\nestimated at 0.001 mg/kg -day\nBW\nDuration: chronic (maternal exposure)\nUncertainty Factors: 5 (see HC [2007]\nfor details) | threshold_non_threshold_endpoint: Approximate\nthreshold of 10 \u00b5g/g\nmercury in maternal\nhair, corresponding\nto a dietary\nmethylmercury\nintake level of\n0.001 mg/kg -day\nBW | trv_derivation_method: TDI =\ndietary methylmercury\nintake level of\n0.001 mg/kg -day /UF\nBW | critical_effect_s: Neuro-\ndevelopmental\ntoxicity | carcinogenicity_classification: CEPA:\nnot assessed\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 1993)\nUS EPA IRIS:\nGroup C\npossibly\ncarcinogenic\nto humans\n(US EPA, 1995c) | source: HC, 2007\n(based on\nGrandjean et al.,\n1997)",
+        "metadata": {
+            "table_name": "output_table41",
+            "page": 41,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Methylmercury | trv_value: 4.7E-04\nmg/kg -day\nBW\n(non-sensitive\nadults of the\ngeneral\npopulation) | study_details: Study Type: epidemiological\nSpecies: humans (children)\nMode of Exposure: diet\nExposure Concentrations: daily intake\nestimated at 0.0015 mg/kg -day\nBW\nDuration: chronic (maternal exposure)\nUncertainty Factors: 6.4 (2 for\ninterindividual variability in the\nhair:blood mercury ratio, and 3.16 [100.5]\nfor inter-individual variability in the rate\nof elimination) | threshold_non_threshold_endpoint: Average mercury\nconcentration of\n14 \u00b5g/g in maternal\nhair, corresponding\nto an estimated\ndietary methylmercury\ndaily intake of\n0.0015 mg/kg -day\nBW | trv_derivation_method: FAO/WHO (2007) pTWI =\nprovisional tolerable dietary\nmethylmercury weekly\nintake (daily intake \u00d7\n7 days/week)/UF=\n0.0016 mg/kg -week\nBW\nProvisional TDI =\npTWI x 2 for non-sensitive\nadults of the general\npopulation / 7 days\nin a week | critical_effect_s: Neuro-\ndevelopmental\ntoxicity | source: FAO/WHO, 2007",
+        "metadata": {
+            "table_name": "output_table41",
+            "page": 41,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Methylnaphthalene,\n2- | type_of_trv: Oral TDI | trv_value: 4.0E-03\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female B6C3F1 mice\nMode of Administration: diet\nExposure Regime: 0, 54.3, or\n113.8 mg/kg -day (males); 0, 50.3,\nBW\nor 107.6 mg/kg -day (females)\nBW\nDuration: 81 weeks\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for\ninterspecies variability, and 10 for\ndatabase deficiencies) | threshold_non_threshold_endpoint: BMDL =\n05\n3.5 mg/kg -day\nBW | trv_derivation_method: TDI = BMDL /UF\n05\n(rounded to 4.0E-03\nmg/kg -day)\nBW | critical_effect_s: Respiratory tract\ntoxicity\n(pulmonary\nalveolar\nproteinosis) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC:\nnot assessed\nUS EPA IRIS:\ninadequate\ninformation to\nassess human\ncarcinogenic\npotential\n(US EPA, 2003a) | source: US EPA, 2003a\n(based on\nMurata et al.,\n1997)",
+        "metadata": {
+            "table_name": "output_table41",
+            "page": 41,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Dichlorobenzene,\n1,4- | type_of_trv: Oral TDI | trv_value: 1.1E-01\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: rats and mice\nMode of Administration: gavage,\ncorn oil\nExposure Regime: male rats: 0, 150,\nor 300 mg/kg -day, 5 days/week; female\nBW\nrats and male and female mice: 0, 300,\nor 600 mg/kg -day, 5 days/week\nBW\nDuration: 103 weeks\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for interspecies\nvariability, and 10 for use of LOAEL vs\nNOAEL) | threshold_non_threshold_endpoint: LOAEL =\n150 mg/kg -day\nBW | trv_derivation_method: LOAEL adjusted for\ncontinuous exposure\nLOAEL =\nadj\n107 mg/kg -day\nBW\nTDI = LOAEL /UF\nadj | critical_effect_s: Nephrotoxicity\n(renal tubular\ndegeneration\nand atrophy) | carcinogenicity_classification: CEPA: Group III\npossibly\ncarcinogenic\nto humans\n(EC and HC, 1993d)\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 1999b)\nUS EPA IRIS:\nnot assessed | source: HC, 1996\n(based on\nNTP, 1987)",
+        "metadata": {
+            "table_name": "output_table34",
+            "page": 34,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene,\n1,4- | type_of_trv: Inhalation TC | trv_value: 6.0E-02\nmg/m3 | study_details: Study Type: chronic\nSpecies: male and female F344 rats\nand BDF mice\n1\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 1,4-dichlorobenzene\nvapour at concentrations of 0, 20, 75, or\n300 ppm (equivalent to 0, 120, 451,\nand 1804 mg/m3) for 6 hours/day,\n5 days/week\nDuration: 104 weeks\nUncertainty Factors: 30 (3 for\nintraspecies variability and 10 for\ninterspecies variability) | threshold_non_threshold_endpoint: BMCL = 9.51 ppm\n10\n(57.2 mg/m3) | trv_derivation_method: BMCL adjusted for\n10\nduration (1.70 ppm\n[10.2 mg/m3])\n+\nConversion to a BMCL\n10_HEC\nusing a regional gas\ndeposition ratio\nBMCL =\n10_HEC\n0.27 ppm (1.6 mg/m3)\nTC = BMCL /UF\n10_HEC | critical_effect_s: Respiratory\ntract toxicity\n(nasal lesions\n[eosinophilic\nchanges in the\nnasal olfactory\nepithelium]) | source: HC, 2018a\n(based on ATSDR,\n2006 [derived\nfrom Aiso et al.,\n2005 and JBRC,\n1995])",
+        "metadata": {
+            "table_name": "output_table34",
+            "page": 34,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloroethane,\n1,2- (DCA, 1,2-) | type_of_trv: Oral SF | trv_value: 3.3E-03\n(mg/kg -day)\u20131\nBW | study_details: Study Type: chronic\nSpecies: male and female F344 rats\nand BDF1 mice\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: rats: 0, 10, 40, or\n160 ppm 1,2-dichloroethane vapour (0,\n202, 809 and 2024 mg/m3 or 0, 12, 50,\n200 mg/kg ), 6 hours/day, 5 days/week;\nBW\nmice: 0, 10, 30, or 90 ppm\n1,2-dichloroethane vapour (0, 40, 121,\n364 mg/m3 or 0, 54, 162, 486 mg/kg ),\nBW\n6 hours/day, 5 days/week\nDuration: 104 weeks\nUncertainty Factors: N/A | threshold_non_threshold_endpoint: BMD of the 1,2-DCA\nconcentration rat\nblood based on an\nexcess lifetime risk of\n10-5\n= 0.00027 mg/L | trv_derivation_method: Rat PBPK model used to\nextrapolate between\nexposure routes (inhalation\nto oral) and to estimate the\nlifetime average daily\nconcentration in rat blood\n+\nMultistage modeling to\ndetermine rat BMD\ncorresponding to an excess\nlifetime risk of 10-5\n+\nPBPK model to extrapolate\nfrom internal animal dose to\nexternal dose in humans\n(0.003 mg/kg -day)\nBW\nOral SF =\n10-5 / 0.003 mg/kg -day\nBW | critical_effect_s: Cancer\n(combined\nmammary gland\ntumours\n[adenoma,\nfibroadenoma, and\nadenocarcinoma of\nthe mammary\ngland]) | carcinogenicity_classification: CEPA: Group II\nprobably\ncarcinogenic\nto humans\n(EC and HC, 1994d)\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 1999a)\nUS EPA IRIS:\nGroup B2\nprobably\ncarcinogenic\nto humans\n(US EPA, 1987b) | source: HC, 2014a\n(based on\nNagano et al.,\n2006)",
+        "metadata": {
+            "table_name": "output_table34",
+            "page": 34,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

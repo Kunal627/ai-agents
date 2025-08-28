@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Copper | type_of_trv: Oral TDI | trv_value: 4.26E-01\nmg/kg -day\nBW | study_details: Study Type: epidemiological\n(prospective)\nSpecies: humans\nMode of Exposure: oral (drinking water)\nExposure Concentrations: healthy\ninfants 3 to 12 months of age\n(n = 128) were given drinking water\nwith < 0.1 mg copper/L (n = 48) or\n2 mg copper/L (n = 80) (added to\ndrinking water as copper sulfate)\nDuration: nine months\nUncertainty Factors: none (attributed\nto the homeostatic regulation of copper\nabsorption and excretion) | threshold_non_threshold_endpoint: NOAEL = 2 mg/L\n(corresponding to a\nmean daily intake of\n0.318 mg/kg -day)\nBW | trv_derivation_method: TDI = upper bound of\nthe 95% confidence\ninterval of the NOAEL | critical_effect_s: Gastrointestinal\ntoxicity\nand\nHepatotoxicity\n(liver function) | carcinogenicity_classification: CEPA: see 2019\n(draft) CMP\nassessment\n(ECCC and HC,\n2019b)\nIARC:\nnot classified\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1988a) | source: HC, 2019a\n(based on\nOlivares et al.,\n1998)",
+        "metadata": {
+            "table_name": "output_table33",
+            "page": 33,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene,\n1,2- | type_of_trv: Oral TDI | trv_value: 4.3E-01\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: rats and mice\nMode of Administration: gavage,\ncorn oil\nExposure Regime: 0, 60, or\n120 mg/kg -day (male and female rats,\nBW\nfemale mice), 30 and 60 mg/kg -day\nBW\n(male mice), 5 days per week\nDuration: 103 weeks\nUncertainty Factors: 100 (10 for\nintraspecies variability and 10 for\ninterspecies variability) | threshold_non_threshold_endpoint: NOAEL =\n60 mg/kg -day\nBW | trv_derivation_method: NOAEL adjusted for\ncontinuous exposure\nNOAEL =\nadj\n43 mg/kg -day\nBW\nTDI = NOAEL /UF\nadj | critical_effect_s: Nephrotoxicity\n(increase\nin tubular\nregeneration\nin the kidney) | carcinogenicity_classification: CEPA: Group V\nprobably not\ncarcinogenic\nto humans\n(EC and HC, 1993c)\nIARC: Group 3\nnot classifiable as to\nits carcinogenicity\nto humans\n(IARC, 1999b)\nUS EPA IRIS:\nGroup D\nnot classifiable\nas to human\ncarcinogenicity\n(US EPA, 1990b) | source: HC, 1996\n(based on\nNTP, 1985b)",
+        "metadata": {
+            "table_name": "output_table33",
+            "page": 33,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

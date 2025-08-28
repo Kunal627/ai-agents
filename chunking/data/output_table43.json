@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: Nickel oxide | type_of_trv: Inhalation TC | trv_value: 2.5E-05\nmg/m3 | study_details: Study Type: subchronic\nSpecies: Wistar rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 0.025 and\n0.150 mg nickel/m3as NiO aerosols,\n24 hours/day, 7 days/week\nDuration: 4 months\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for\ninterspecies variability, and 10 for\nless than chronic study) | threshold_non_threshold_endpoint: LOAEL =\n0.025 mg/m3 | trv_derivation_method: TC = LOAEL/UF | critical_effect_s: Respiratory\ntract toxicity\n(increase in the\nnumber of alveolar\nmacrophages,\nincrease in the size\nand number of\nmacrophages with\nmore than one\nnucleus, and an\nincrease in\nphagocytic activity) | carcinogenicity_classification: CEPA: Group I\ncarcinogenic\nto humans\n(EC and HC, 1994e)\nIARC: see nickel,\nmixture of oxidic,\nsulfidic and soluble\ninorganic nickel\ncompounds\nUS EPA IRIS:\nnot classified | source: HC, 1996\n(based on\nSpiegelberg et al.,\n1984)",
+        "metadata": {
+            "table_name": "output_table43",
+            "page": 43,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Nickel subsulfide\n(sulfidic nickel) | type_of_trv: Inhalation TC | trv_value: 1.8E-05\nmg/m3 | study_details: Study Type: subchronic\nSpecies: F344/N rats and B6C3F1 mice\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 0.11, 0.22, 0.44,\n0.88, and 1.8 mg nickel/m\u00b3, 6 hours/day,\n5 days/week\nDuration: 13 weeks\nUncertainty Factors: 1000 (10 for\nintraspecies variability, 10 for\ninterspecies variability, and 10 for\nless than chronic study) | threshold_non_threshold_endpoint: LOAEL =\n0.1 mg/m3 | trv_derivation_method: LOAEL adjusted for\ncontinuous exposure\nLOAEL = 0.018 mg/m3\nadj\nTC = LOAEL /UF\nadj | critical_effect_s: Respiratory tract\ntoxicity\n(increase in\nnumber of alveolar\nmacrophages,\nhyperplasia\nof alveolar\nmacrophages) | carcinogenicity_classification: CEPA: Group I\ncarcinogenic\nto humans\n(EC and HC,\n1994e)\nIARC: see nickel,\nmixture of oxidic,\nsulfidic and soluble\ninorganic nickel\ncompounds\nUS EPA IRIS:\nGroup A\ncarcinogenic\nto humans\n(US EPA, 1987c) | source: EC and HC, 1994e\nand HC, 1996\n(based on\nBenson et al.,\n1990;\nDunnick et al.,\n1989)",
+        "metadata": {
+            "table_name": "output_table43",
+            "page": 43,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Nickel sulfate | type_of_trv: Oral TDI | trv_value: 1.2E-02\nmg/kg -day\nBW | study_details: Study Type: epidemiological\n(human controlled studies)\nSpecies: humans (1st study [men] =\n8 non-allergic volunteers; 2nd study\n[women] = 20 nickel-sensitive subjects\nand 20 non-allergic age-matched\ncontrols, both groups having existing\nvesicular hand eczema of the\npompholyx type)\nMode of Exposure: oral (drinking water)\nExposure Concentrations:\n12 \u00b5g nickel/kg in drinking water\nBW\n(exposed subjects in both studies),\nfollowed by a 72-hour observation period\nDuration: N/A (single administration)\nUncertainty Factors: none (LOAEL\nwas based on a highly sensitive human\npopulation [WHO, 2007]) | threshold_non_threshold_endpoint: LOAEL =\n12 \u00b5g Ni/kg -day\nBW | trv_derivation_method: TDI = LOAEL | critical_effect_s: Dermal toxicity\n(exacerbation\nof eczema in\nnickel-sensitive\nsubjects) | carcinogenicity_classification: CEPA and IARC:\nsee nickel, mixture\nof oxidic, sulfidic\nand soluble\ninorganic nickel\ncompounds\nUS EPA IRIS:\nnot assessed | source: CCME, 2015\n(based on WHO,\n2007 [derived\nfrom\nNielsen et al.,\n1999])",
+        "metadata": {
+            "table_name": "output_table43",
+            "page": 43,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

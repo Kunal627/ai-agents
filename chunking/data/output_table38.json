@@ -1,0 +1,56 @@
+[
+    {
+        "text": "substance: n-Hexane | type_of_trv: Oral TDI\n(provisional) | trv_value: 1.0E-01\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: rats\nMode of Administration: gavage\nExposure Regime: 0, 66, 132, or\n264 mg/day, 7 days/week\nDuration: 4 weeks\nUncertainty Factors: 90 (10 for\nintraspecies variability, 3 for interspecies\nvariability, and 3 for deficiencies in\nthe database) | threshold_non_threshold_endpoint: POD = 8 mg/kg -day\nBW | trv_derivation_method: TDI = POD/UF | critical_effect_s: Neurotoxicity\n(motor nerve\nconduction\nvelocity, mixed\nnerve conduction\nvelocity) | carcinogenicity_classification: CEPA:\nnot assessed\nIARC:\nnot classified\nUS EPA IRIS:\ninadequate\ninformation to\nassess carcinogenic\npotential (US EPA,\n2005b) | source: CCME, 2011\n(based on EEI,\n2008 [derived\nfrom Ono et al.,\n1979, 1981])",
+        "metadata": {
+            "table_name": "output_table38",
+            "page": 38,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: n-Hexane | type_of_trv: Inhalation TC\n(provisional) | trv_value: 7.0E-01\nmg/m3 | study_details: Study Type: subchronic\nSpecies: Wistar male rats\nMode of Administration: inhalation\n(whole body exposure chambers)\nExposure Regime: 0, 500, 1200, or\n3000 ppm nhexane vapour (0, 1762,\n4230, or 10 574 mg/m3), 12 hours/day,\n7 days/week\nDuration: 16 weeks\nUncertainty Factors: 300 (10 for\nintraspecies variability, 3 for interspecies\nvariability, 3 for use of a subchronic study,\nand 3 for database deficiencies) | threshold_non_threshold_endpoint: BMCL = 122 ppm\n(430 mg/m3) | trv_derivation_method: BMCL adjusted for\ncontinuous exposure\nBMCL = 215 mg/m3\nHEC\nTC = BMCL /UF\nHEC | critical_effect_s: Neurotoxicity\n(peripheral\nneuropathy \u2013\ndecreased motor\nnerve conduction\nvelocity) | source: US EPA, 2005b\n(based on\nHuang et al.,\n1989)",
+        "metadata": {
+            "table_name": "output_table38",
+            "page": 38,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Lead1 | type_of_trv: Risk-specifci dose\n(provisional) | trv_value: 5.0E-04\nmg/kg -day\nBW | study_details: Study Type: epidemiological\n(meta-analysis)\nSpecies: humans\nMode of Exposure: N/A\nExposure Concentrations: N/A\nDuration: from birth or infancy until 5\nto 10 years of age\nUncertainty Factors: none | threshold_non_threshold_endpoint: BMDL =\n01\n0.5 \u00b5g/kg -day\nBW | trv_derivation_method: 95th lower confidence limit\nof the BMD associated with\na 1 IQ point decrement\n(intake rate associated with\na drop of 1 IQ point in a\npopulation of children)\nRisk-specific dose = BMDL\n01\n(no adjustment) | critical_effect_s: Neuro-\ndevelopmental\ntoxicity\n(cognitive function) | carcinogenicity_classification: CEPA:\nnot classified\nIARC: Group 2A\nprobably\ncarcinogenic\nto humans\n(IARC, 2006)\nUS EPA IRIS:\nGroup B2\nprobable human\ncarcinogen\n(US EPA, 1988b) | source: EFSA, 2013\n(based on\nLanphear et al.,\n2005)",
+        "metadata": {
+            "table_name": "output_table38",
+            "page": 38,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "text": "substance: Perfluorooctanoic\nacid (PFOA) | type_of_trv: Oral TDI | trv_value: 2.1E-05\nmg/kg -day\nBW | study_details: Study Type: subchronic\nSpecies: rats\nMode of Administration: diet\nExposure Regime: 0, 0.06, 0.64, 1.94,\nand 6.5 mg/kg -day, for 4, 7, or\nBW\n13 weeks; each dose had a recovery\ngroup that was observed for 8 additional\nweeks after cessation of exposure at\nweek 13\nDuration: up to 13 weeks\nUncertainty Factors: 25 (10 for\nintraspecies variability and 2.5 for\nthe toxicodynamic component of the\ndefault interspecies uncertainty factor).\nNo uncertainty factor was used for\nsubchronic-to-chronic extrapolation,\nas liver effects were investigated in a\nchronic study (Butenhoff et al., 2012)\nand increasing duration of exposure\ndid not appear to worsen the effects\nin the key study (Perkins et al., 2004). | threshold_non_threshold_endpoint: BMDL =\n10\n0.05 mg/kg -day\nBW | trv_derivation_method: POD =\nHEQ\n0.000521 mg/kg -day\nBW\n(BMDL /96, where 96 is\n10\nthe uncertainty factor to\naccount for interspecies\ntoxicokinetic differences,\nfor rats exposed in the\n0.01 mg/kg -day range)\nBW\nTDI = POD /UF\nHEQ | critical_effect_s: Hepatotoxicity\n(hepatocellular\nhypertrophy) | carcinogenicity_classification: CEPA:\nnot classified\nIARC: Group 2B\npossibly\ncarcinogenic\nto humans\n(IARC, 2017)\nUS EPA IRIS:\nsuggestive\nevidence of\ncarcinogenic\npotential in animals\nand humans\n(US EPA, 2016a) | source: HC, 2018b\n(based on\nPerkins et al.,\n2004, and Summit\nToxicology, 2015)",
+        "metadata": {
+            "table_name": "output_table45",
+            "page": 45,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    },
+    {
+        "text": "substance: Perfluorooctane\nsulfonate (PFOS) | type_of_trv: Oral TDI | trv_value: 6.0E-05\nmg/kg -day\nBW | study_details: Study Type: chronic\nSpecies: male and female\nSprague-Dawley rats\nMode of Administration: diet\nExposure Regime: 0, 0.5, 2, 5, and\n20 ppm (mean daily doses: 0, 0.024,\n0.098, 0.242, and 0.984 mg/kg -day\nBW\nfor males; 0, 0.029, 0.120, 0.299,\nand 1.251 mg/kg -day for females)\nBW\nDuration: 2 years\nUncertainty Factors: 25 (10 for\nintraspecies variability, and 2.5 for\nthe toxicodynamic component of the\ndefault interspecies uncertainty factor) | threshold_non_threshold_endpoint: NOAEL =\n0.024 mg/kg -day\nBW | trv_derivation_method: NOAEL adjusted to\naccount for decreased\npurity of the test material\nNOAEL =\nadj\n0.021 mg/kg -day\nBW\nPOD =\nHEQ\nNOAEL /14 =\nadj\n0.0015 mg/kg -day\nBW\n[where 14 = dose- and\nspecies-specific adjustment\nfactor]\nTDI = POD /UF\nHEQ | critical_effect_s: Hepatotoxicity\n(hepatocellular\nhypertrophy) | carcinogenicity_classification: CEPA:\nnot classified\nIARC:\nnot classified\nUS EPA IRIS:\nsuggestive\nevidence of\ncarcinogenic\npotential in animals\n(US EPA, 2016b) | source: HC, 2018c\n(based on\nButenhoff et al.,\n2012)",
+        "metadata": {
+            "table_name": "output_table45",
+            "page": 45,
+            "columns": [
+                "substance",
+                "type_of_trv",
+                "trv_value",
+                "study_details",
+                "threshold_non_threshold_endpoint",
+                "trv_derivation_method",
+                "critical_effect_s",
+                "carcinogenicity_classification",
+                "source"
+            ]
+        }
+    }
+]

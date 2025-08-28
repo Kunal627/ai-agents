@@ -1,0 +1,226 @@
+[
+    {
+        "text": "substance: Arsenic | carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw: 1.8 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 6.4",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Barium | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.2",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzene | carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw: 0.083 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 0.016",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Benzo[a]pyrene (B[a]P) | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.0000667 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.000002 | carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw: 1.289 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 0.6",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Beryllium | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.002 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.00002 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 2.4",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Cadmium | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.0008p | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 4.2",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Carbon tetrachloride1 | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.00071 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 0.006",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chlorobenzene | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.43 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.01p",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium, trivalent | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 1.5 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.0001",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Chromium, hexavalent | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.0022 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.0001 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 76.0",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Copper | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.426",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene, 1,2- | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.43",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichlorobenzene, 1,4- | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.11 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.06",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloroethane, 1,2- | carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw: 0.0033",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloroethylene, 1,1- | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.003",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    },
+    {
+        "text": "substance: Dichloromethane (methylene chloride)2 | non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw: 0.014 | non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3: 0.6 | carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw: 0.002 | carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1: 1e-05",
+        "metadata": {
+            "table_name": "output_table16",
+            "page": 16,
+            "columns": [
+                "substance",
+                "non_carcinogenic_trvs_oral_tolerable_daily_intake_tdi_mg_kg_day_bw",
+                "non_carcinogenic_trvs_inhalation_tolerable_concentration_tc_mg_m3",
+                "carcinogenic_trvs_oral_slope_factor_sf_mg_kg_day_1_bw",
+                "carcinogenic_trvs_inhalation_unit_risk_ur_mg_m3_1"
+            ]
+        }
+    }
+]
