@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# intentionally not committed to git
+# work in progress
+restricted/
+output/
+llms/
+guardrails/
+llm_sec/
+montecarlo/
+multiverse_output/
